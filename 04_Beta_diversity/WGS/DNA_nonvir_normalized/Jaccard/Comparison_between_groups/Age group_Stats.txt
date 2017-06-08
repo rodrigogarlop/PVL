@@ -1,0 +1,36 @@
+# The tests of significance were performed using a two-sided Student's two-sample t-test.
+# Alternative hypothesis: Group 1 mean != Group 2 mean
+# The nonparametric p-values were calculated using 1000 Monte Carlo permutations.
+# The nonparametric p-values contain the correct number of significant digits.
+# Entries marked with "N/A" could not be calculated because at least one of the groups
+# of distances was empty, both groups each contained only a single distance, or
+# the test could not be performed (e.g. no variance in groups with the same mean).
+Group 1	Group 2	t statistic	Parametric p-value	Parametric p-value (Bonferroni-corrected)	Nonparametric p-value	Nonparametric p-value (Bonferroni-corrected)
+All within Age group	All between Age group	-2.10694318475	0.0354772016833	0.993361647134	0.039	1.000
+All within Age group	Elder vs. Elder	-0.503191844125	0.615013758073	1	0.603	1.000
+All within Age group	Adult vs. Adult	1.73099060645	0.084287094735	1	0.072	1.000
+All within Age group	Young vs. Young	-0.647734890387	0.517605448881	1	0.542	1.000
+All within Age group	Elder vs. Adult	-1.20703754649	0.227922775541	1	0.231	1.000
+All within Age group	Elder vs. Young	-0.995018928502	0.320298602101	1	0.312	1.000
+All within Age group	Adult vs. Young	-3.77329127731	0.000187937915837	0.00526226164344	0.001	0.028
+All between Age group	Elder vs. Elder	1.53286747268	0.12579506157	1	0.124	1.000
+All between Age group	Adult vs. Adult	2.65453563679	0.00824421801581	0.230838104443	0.011	0.308
+All between Age group	Young vs. Young	-0.23805284702	0.811968414156	1	0.819	1.000
+All between Age group	Elder vs. Adult	0.638996079445	0.523063779889	1	0.508	1.000
+All between Age group	Elder vs. Young	0.410008634406	0.681986432636	1	0.681	1.000
+All between Age group	Adult vs. Young	-2.67019244973	0.00787928845605	0.22062007677	0.009	0.252
+Elder vs. Elder	Adult vs. Adult	2.00918040234	0.0453600807982	1	0.043	1.000
+Elder vs. Elder	Young vs. Young	-0.570419011133	0.568850988064	1	0.586	1.000
+Elder vs. Elder	Elder vs. Adult	-0.733950015556	0.463313854098	1	0.445	1.000
+Elder vs. Elder	Elder vs. Young	-0.650946644558	0.515484973269	1	0.501	1.000
+Elder vs. Elder	Adult vs. Young	-3.63300974633	0.000327111528438	0.00915912279626	0.001	0.028
+Adult vs. Adult	Young vs. Young	-1.07845075698	0.286113085952	1	0.305	1.000
+Adult vs. Adult	Elder vs. Adult	-2.146930284	0.0326485263456	0.914158737678	0.038	1.000
+Adult vs. Adult	Elder vs. Young	-2.07653356041	0.0396861425695	1	0.039	1.000
+Adult vs. Adult	Adult vs. Young	-4.01690970376	0.000128919716017	0.00360975204848	0.001	0.028
+Young vs. Young	Elder vs. Adult	0.351606097622	0.725437134491	1	0.717	1.000
+Young vs. Young	Elder vs. Young	0.373083609705	0.709875884181	1	0.730	1.000
+Young vs. Young	Adult vs. Young	-1.09926153033	0.277632478091	1	0.260	1.000
+Elder vs. Adult	Elder vs. Young	-0.0615093419226	0.950990364697	1	0.956	1.000
+Elder vs. Adult	Adult vs. Young	-2.82721292355	0.00503659509939	0.141024662783	0.008	0.224
+Elder vs. Young	Adult vs. Young	-2.90794086448	0.00425973116787	0.1192724727	0.006	0.168

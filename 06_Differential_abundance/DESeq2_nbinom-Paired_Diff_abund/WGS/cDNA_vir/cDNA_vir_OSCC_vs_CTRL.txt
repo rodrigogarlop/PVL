@@ -1,0 +1,11 @@
+OTU	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	taxonomy
+74	24.8160018507091	2.71470526008039	0.888474675709579	3.05546723423748	0.00224710154352656	0.00898840617410624	1__Viruses; 2__III:dsRNA; 3__III:dsRNA_n; 4__Partitiviridae; 5__Partitiviridae_n; 6__Partitiviridae_n_n; 7__Pittosporum cryptic virus-1
+61	20.3546275377692	-1.84053744528573	0.768433466166728	-2.39518126984645	0.0166121502394799	0.0332243004789598	1__Viruses; 2__undetermined Viruses; 3__undetermined Viruses; 4__undetermined Viruses; 5__undetermined Viruses; 6__undetermined Viruses; 7__undetermined Viruses
+47	48.4343160685825	1.68241549933021	0.941648623213786	1.78667016321675	0.0739908141845763	0.0986544189127683	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Arenaviridae; 5__Arenaviridae_n; 6__Mammarenavirus; 7__Lassa mammarenavirus
+154	5.52141830785835	1.02271858713412	0.81769487220396	1.2507337662245	0.211031626786359	0.211031626786359	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Bunyaviridae; 5__Bunyaviridae_n; 6__Orthobunyavirus; 7__Bunyamwera virus
+60	28.4631432557377	-3.46577505841184	0.818307592034067	-4.23529622864303	NA	NA	1__Viruses; 2__I:dsDNA; 3__Herpesvirales; 4__Herpesviridae; 5__Betaherpesvirinae; 6__Cytomegalovirus; 7__Cercopithecine herpesvirus 5
+171	4.38053135814287	0.0818102759133358	0.603572501489323	0.135543411456731	0.892182243547108	NA	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus H
+278	1.9587587450398	0.440420463609605	0.682294947456032	0.645498644320514	0.518604096539153	NA	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus K
+328	1.82089089852537	-0.806037400646217	0.647059226552277	-1.24569338875055	0.212876981739398	NA	1__Viruses; 2__I:dsDNA; 3__I:dsDNA_u; 4__I:dsDNA_u_u; 5__I:dsDNA_u_u_u; 6__I:dsDNA_u_u_u_u; 7__I:dsDNA_u_u_u_u_u
+338	1.56885336877658	-0.371517317622685	0.694310194615041	-0.535088380530942	0.59258874430901	NA	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus
+342	2.05726705100652	0.545777207897315	0.730307994251066	0.747324707101162	0.454867582051976	NA	1__Viruses; 2__IV:(+)ssRNA; 3__Nidovirales; 4__Coronaviridae; 5__Coronavirinae; 6__Gammacoronavirus; 7__Avian coronavirus

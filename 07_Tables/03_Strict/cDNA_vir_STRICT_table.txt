@@ -1,0 +1,12 @@
+Group	CTRL	CTRL	CTRL	OL	OL	OL	OL	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	PVL	PVL	PVL	PVL	PVL
+Sample	C01	C02	C04	L02	L04	L05	L07	S02	S04	S09	S12	S13	S14	S15	S16	V02	V07	V08	V09	V10
+Viruses|V:(-)ssRNA|V:(-)ssRNA_n|Arenaviridae|Arenaviridae_n|Mammarenavirus|Lassa mammarenavirus	3	0	3	28	179	3	4	1	6	0	6	10	93	7	225	52	113	2	92	2
+Viruses|I:dsDNA|Herpesvirales|Herpesviridae|Betaherpesvirinae|Cytomegalovirus|Cercopithecine herpesvirus 5	49	282	23	9	0	22	11	18	2	6	1	3	2	0	4	6	0	60	1	12
+Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses	47	36	56	7	0	54	38	17	2	23	3	12	0	0	25	12	3	48	0	13
+Viruses|III:dsRNA|III:dsRNA_n|Partitiviridae|Partitiviridae_n|Partitiviridae_n_n|Pittosporum cryptic virus-1	1	4	0	5	22	1	2	2	11	0	43	84	22	44	91	2	48	0	15	2
+Viruses|V:(-)ssRNA|V:(-)ssRNA_n|Bunyaviridae|Bunyaviridae_n|Orthobunyavirus|Bunyamwera virus	6	0	0	22	0	7	8	2	20	0	3	1	2	3	1	0	0	0	4	3
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus H	3	3	3	0	2	9	7	2	0	12	1	4	0	0	7	3	3	1	0	20
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus K	0	1	0	0	2	9	0	1	0	2	1	0	0	0	2	0	0	2	0	2
+Viruses|I:dsDNA|I:dsDNA_u|I:dsDNA_u_u|I:dsDNA_u_u_u|I:dsDNA_u_u_u_u|I:dsDNA_u_u_u_u_u	3	1	0	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus	1	0	1	0	1	4	1	0	0	1	0	0	0	0	0	1	0	0	0	2
+Viruses|IV:(+)ssRNA|Nidovirales|Coronaviridae|Coronavirinae|Gammacoronavirus|Avian coronavirus	0	0	0	7	0	0	6	0	1	0	0	2	0	0	1	0	0	0	1	3

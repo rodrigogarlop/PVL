@@ -1,0 +1,11 @@
+OTU	Test-Statistic	P	FDR_P	Bonferroni_P	Elder_mean	Adult_mean	Young_mean	taxonomy
+154	3.95833333333	0.138184342963	0.515892077346	1.0	0.583333333333	3.6	6.33333333333	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Bunyaviridae; 5__Bunyaviridae_n; 6__Orthobunyavirus; 7__Bunyamwera virus
+342	3.72655951014	0.155162898624	0.515892077346	1.0	0.25	1.6	0.333333333333	1__Viruses; 2__IV:(+)ssRNA; 3__Nidovirales; 4__Coronaviridae; 5__Coronavirinae; 6__Gammacoronavirus; 7__Avian coronavirus
+60	3.2215911998	0.199728646755	0.515892077346	1.0	4.75	6.4	14.3333333333	1__Viruses; 2__I:dsDNA; 3__Herpesvirales; 4__Herpesviridae; 5__Betaherpesvirinae; 6__Cytomegalovirus; 7__Cercopithecine herpesvirus 5
+278	3.15629683936	0.206356830938	0.515892077346	1.0	0.75	0.8	0.0	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus K
+328	2.09248844376	0.351254508834	0.547638337855	1.0	0.25	0.8	0.0	1__Viruses; 2__I:dsDNA; 3__I:dsDNA_u; 4__I:dsDNA_u_u; 5__I:dsDNA_u_u_u; 6__I:dsDNA_u_u_u_u; 7__I:dsDNA_u_u_u_u_u
+61	1.84999365804	0.39653267647	0.547638337855	1.0	6.41666666667	12.8	12.6666666667	1__Viruses; 2__undetermined Viruses; 3__undetermined Viruses; 4__undetermined Viruses; 5__undetermined Viruses; 6__undetermined Viruses; 7__undetermined Viruses
+74	1.76348473185	0.414060837313	0.547638337855	1.0	10.75	1.8	3.66666666667	1__Viruses; 2__III:dsRNA; 3__III:dsRNA_n; 4__Partitiviridae; 5__Partitiviridae_n; 6__Partitiviridae_n_n; 7__Pittosporum cryptic virus-1
+47	1.65056745728	0.438110670284	0.547638337855	1.0	13.6666666667	10.8	2.33333333333	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Arenaviridae; 5__Arenaviridae_n; 6__Mammarenavirus; 7__Lassa mammarenavirus
+338	0.87962962963	0.644155698131	0.715728553479	1.0	0.0833333333333	0.2	0.0	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus
+171	0.589734299517	0.744630505238	0.744630505238	1.0	2.5	1.2	0.333333333333	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus H

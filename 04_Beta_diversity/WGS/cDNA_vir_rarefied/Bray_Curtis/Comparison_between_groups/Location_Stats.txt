@@ -1,0 +1,63 @@
+# The tests of significance were performed using a two-sided Student's two-sample t-test.
+# Alternative hypothesis: Group 1 mean != Group 2 mean
+# The nonparametric p-values were calculated using 1000 Monte Carlo permutations.
+# The nonparametric p-values contain the correct number of significant digits.
+# Entries marked with "N/A" could not be calculated because at least one of the groups
+# of distances was empty, both groups each contained only a single distance, or
+# the test could not be performed (e.g. no variance in groups with the same mean).
+Group 1	Group 2	t statistic	Parametric p-value	Parametric p-value (Bonferroni-corrected)	Nonparametric p-value	Nonparametric p-value (Bonferroni-corrected)
+All within Location	All between Location	0.28493309283	0.776009038977	1	0.770	1.000
+All within Location	Tongue vs. Tongue	-0.846270122228	[ 0.39955131]	1	0.483	1.000
+All within Location	Other vs. Other	-0.0639607262031	0.949134492741	1	0.962	1.000
+All within Location	Gingiva vs. Gingiva	-0.0552428317115	0.956004944085	1	0.959	1.000
+All within Location	Lip vs. Tongue	-1.07950663047	0.283095064231	1	0.321	1.000
+All within Location	Lip vs. Other	0.791492716466	0.430607791682	1	0.476	1.000
+All within Location	Lip vs. Gingiva	-0.137557261802	0.890848853029	1	0.890	1.000
+All within Location	Tongue vs. Other	0.136906452914	0.891382774057	1	0.897	1.000
+All within Location	Tongue vs. Gingiva	0.599570203989	0.54991377829	1	0.568	1.000
+All within Location	Other vs. Gingiva	0.089697198816	0.928660780276	1	0.928	1.000
+All between Location	Tongue vs. Tongue	-0.815683763927	[ 0.41674312]	1	0.613	1.000
+All between Location	Other vs. Other	-0.135229582157	0.892713497586	1	0.892	1.000
+All between Location	Gingiva vs. Gingiva	-0.337450640602	0.736161856836	1	0.720	1.000
+All between Location	Lip vs. Tongue	-1.15179428341	0.252296017137	1	0.245	1.000
+All between Location	Lip vs. Other	0.731099432594	0.466499142189	1	0.497	1.000
+All between Location	Lip vs. Gingiva	-0.281826227972	0.778621109252	1	0.800	1.000
+All between Location	Tongue vs. Other	0.0394777540855	0.968588991535	1	0.976	1.000
+All between Location	Tongue vs. Gingiva	0.409119879647	0.683174944036	1	0.671	1.000
+All between Location	Other vs. Gingiva	-0.132748584784	0.894589880695	1	0.902	1.000
+Tongue vs. Tongue	Other vs. Other	-0.606976978667	[ 0.60559468]	1	1.000	1.000
+Tongue vs. Tongue	Gingiva vs. Gingiva	-0.853888699853	[ 0.39543372]	1	0.524	1.000
+Tongue vs. Tongue	Lip vs. Tongue	-4.90747728811	[ 0.1279724]	1	0.334	1.000
+Tongue vs. Tongue	Lip vs. Other	-0.221766381286	[ 0.84508067]	1	1.000	1.000
+Tongue vs. Tongue	Lip vs. Gingiva	-0.765013984318	[ 0.45792688]	1	0.782	1.000
+Tongue vs. Tongue	Tongue vs. Other	-0.784706025718	[ 0.46815684]	1	0.595	1.000
+Tongue vs. Tongue	Tongue vs. Gingiva	-0.777324138128	[ 0.44372542]	1	0.543	1.000
+Tongue vs. Tongue	Other vs. Gingiva	-0.81916499632	[ 0.41742862]	1	0.617	1.000
+Other vs. Other	Gingiva vs. Gingiva	0.0501654326719	0.960099310885	1	0.974	1.000
+Other vs. Other	Lip vs. Tongue	-0.763842838778	0.500540470098	1	0.759	1.000
+Other vs. Other	Lip vs. Other	0.45003516037	0.675997063886	1	0.934	1.000
+Other vs. Other	Lip vs. Gingiva	-0.00311156279428	0.997558341195	1	0.993	1.000
+Other vs. Other	Tongue vs. Other	0.129253409681	0.900792654457	1	0.919	1.000
+Other vs. Other	Tongue vs. Gingiva	0.286563985729	0.776483583689	1	0.808	1.000
+Other vs. Other	Other vs. Gingiva	0.0892431827193	0.929303023708	1	0.932	1.000
+Gingiva vs. Gingiva	Lip vs. Tongue	-1.06754668548	0.288548963051	1	0.289	1.000
+Gingiva vs. Gingiva	Lip vs. Other	0.803948396518	0.423499239149	1	0.433	1.000
+Gingiva vs. Gingiva	Lip vs. Gingiva	-0.10929231088	0.913183291216	1	0.912	1.000
+Gingiva vs. Gingiva	Tongue vs. Other	0.155993582239	0.876369082765	1	0.864	1.000
+Gingiva vs. Gingiva	Tongue vs. Gingiva	0.635050837712	0.526635243435	1	0.506	1.000
+Gingiva vs. Gingiva	Other vs. Gingiva	0.132426199929	0.894850382078	1	0.909	1.000
+Lip vs. Tongue	Lip vs. Other	1.10752557678	0.348885121134	1	0.371	1.000
+Lip vs. Tongue	Lip vs. Gingiva	0.885971856914	0.390597327969	1	0.407	1.000
+Lip vs. Tongue	Tongue vs. Other	1.17296548652	0.285263674272	1	0.287	1.000
+Lip vs. Tongue	Tongue vs. Gingiva	1.35685712293	0.185665560372	1	0.170	1.000
+Lip vs. Tongue	Other vs. Gingiva	1.08887101853	0.282419423035	1	0.295	1.000
+Lip vs. Other	Lip vs. Gingiva	-0.679535060429	0.507150622639	1	0.525	1.000
+Lip vs. Other	Tongue vs. Other	-0.520237877414	0.618941293505	1	0.631	1.000
+Lip vs. Other	Tongue vs. Gingiva	-0.585291684199	0.562878705544	1	0.562	1.000
+Lip vs. Other	Other vs. Gingiva	-0.733848288674	0.467023869146	1	0.494	1.000
+Lip vs. Gingiva	Tongue vs. Other	0.185674947675	0.854775981678	1	0.825	1.000
+Lip vs. Gingiva	Tongue vs. Gingiva	0.514935048035	0.609432403854	1	0.631	1.000
+Lip vs. Gingiva	Other vs. Gingiva	0.177214694325	0.860002800455	1	0.873	1.000
+Tongue vs. Other	Tongue vs. Gingiva	0.167275262831	0.86820609011	1	0.862	1.000
+Tongue vs. Other	Other vs. Gingiva	-0.093582382781	0.925847330184	1	0.929	1.000
+Tongue vs. Gingiva	Other vs. Gingiva	-0.463913633494	0.644191316305	1	0.671	1.000

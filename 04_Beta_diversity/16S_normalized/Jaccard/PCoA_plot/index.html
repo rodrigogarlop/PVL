@@ -1,0 +1,384 @@
+<!--
+*Summary of Emperor's Information*
+Command executed on May 28, 2017 at 13:26:21
+Emperor Version: 0.9.51
+QIIME Version: 0.9.51
+HostName: qiime-190-virtual-box
+Metadata: /home/qiime/Desktop/Tables/OTU_Tables_16S/PVL_Map.txt
+Coordinates: /home/qiime/Desktop/Tables/OTU_Tables_16S/05_Beta_div/beta_16S_sctrict_normalized/binary_jaccard_pc.txt
+Command: /usr/local/bin/make_emperor.py -i beta_16S_sctrict_normalized//binary_jaccard_pc.txt -o beta_16S_sctrict_normalized//binary_jaccard_emperor_pcoa_plot/ -m ../PVL_Map.txt
+-->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Emperor</title>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="emperor_required_resources/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
+    <!-- Style files -->
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/emperor/css/emperor.css">
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/css/jquery-ui2.css">
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/css/colorPicker.css">
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/css/spectrum.css">
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/css/d3.parcoords.css">
+    <link rel="stylesheet" type="text/css" href="emperor_required_resources/css/chosen.min.css">
+
+    <!-- Emperor logo for the splash window -->
+    <table id="logotable" style="vertical-align:middle;text-align:center;height:100%;width:100%;margin:0;padding:0;border:0;">
+        <tr><td><img src="emperor_required_resources/img/emperor.png" alt="Emperor" id="logo"/></td></tr>
+    </table>
+
+    <!-- JavaScript code -->
+
+    <!-- jQuery and other plugins -->
+    <script type="text/javascript" src="emperor_required_resources/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/jquery-ui-1.8.17.custom.min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/jquery.colorPicker.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/spectrum.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/chosen.jquery.min.js"></script>
+
+    <!-- D3.js for the parallel coordinates plugin -->
+    <script type="text/javascript" src="emperor_required_resources/js/d3.v3.min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/d3.parcoords.js"></script>
+
+    <!-- THREE.js and plugins for screenshots -->
+    <script type="text/javascript" src="emperor_required_resources/js/three.min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/js/Detector.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/js/OrbitControls.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/js/ColorConverter.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/js/SVGRenderer.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/THREEx.screenshot.js"></script>
+
+    <!-- General utilities (underscore.js and FileSaver.js) -->
+    <script type="text/javascript" src="emperor_required_resources/js/underscore-min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/chroma.min.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/js/FileSaver.min.js"></script>
+
+    <!-- Emperor library code -->
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/animate.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/draw.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/emperor.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/trajectory.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/ui.js"></script>
+    <script type="text/javascript" src="emperor_required_resources/emperor/js/util.js"></script>
+
+    <script type="text/javascript">
+
+var g_mappingFileHeaders = ['SampleID','BarcodeSequence','LinkerPrimerSequence','Group','MID','Number','Gender','Age group','Location'];
+var g_mappingFileData = { 'L10': ['L10','AGTAGACGTCT','AGAGTTTGATCMTGGCTCAG','OL','MID16','598997','M','Elder','Lip'],'V08': ['V08','ACGACACGTAT','AGAGTTTGATCMTGGCTCAG','PVL','MID4','1005119','M','Elder','Gingiva'],'V05': ['V05','ACACGACGACT','AGAGTTTGATCMTGGCTCAG','PVL','MID1','1079479','F','Adult','Gingiva'],'V04': ['V04','CTACTCGTAGT','AGAGTTTGATCMTGGCTCAG','PVL','MID25','502640','F','Elder','Gingiva'],'V07': ['V07','ACACTACTCGT','AGAGTTTGATCMTGGCTCAG','PVL','MID3','1079960','M','Elder','Gingiva'],'V06': ['V06','ACACGTAGTAT','AGAGTTTGATCMTGGCTCAG','PVL','MID2','935656','M','Elder','Gingiva'],'V01': ['V01','CGACGAGTACT','AGAGTTTGATCMTGGCTCAG','PVL','MID22','419752','F','Elder','Tongue'],'V03': ['V03','CGTACGTCGAT','AGAGTTTGATCMTGGCTCAG','PVL','MID24','6304','F','Elder','Lip'],'V02': ['V02','CGATACTACGT','AGAGTTTGATCMTGGCTCAG','PVL','MID23','625468','F','Elder','Gingiva'],'S13': ['S13','ACGTACTGTGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID8','690115','F','Elder','Tongue'],'S12': ['S12','ACGTACACACT','AGAGTTTGATCMTGGCTCAG','OSCC','MID7','717820','F','Elder','Gingiva'],'S11': ['S11','ACGCGTCTAGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID6','354745','M','Elder','Gingiva'],'S10': ['S10','CGACGACGCGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID21','647236','M','Elder','Other'],'V09': ['V09','ACGAGTAGACT','AGAGTTTGATCMTGGCTCAG','PVL','MID5','989116','F','Adult','Gingiva'],'S16': ['S16','ACTATACGAGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID11','30745','F','Elder','Tongue'],'S15': ['S15','ACTACGTCTCT','AGAGTTTGATCMTGGCTCAG','OSCC','MID10','879497','F','Elder','Other'],'S14': ['S14','ACGTAGATCGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID9','175394','M','Elder','Gingiva'],'L09': ['L09','AGTACTACTAT','AGAGTTTGATCMTGGCTCAG','OL','MID15','144700','F','Elder','Tongue'],'L08': ['L08','AGTACGAGAGT','AGAGTTTGATCMTGGCTCAG','OL','MID14','829033','F','Elder','Gingiva'],'L07': ['L07','AGACTCGACGT','AGAGTTTGATCMTGGCTCAG','OL','MID13','956273','M','Adult','Other'],'L06': ['L06','ACTCGCGTCGT','AGAGTTTGATCMTGGCTCAG','OL','MID12','351633','M','Adult','Tongue'],'L05': ['L05','ACTATACGAGT','AGAGTTTGATCMTGGCTCAG','OL','MID11','571322','F','Adult','Gingiva'],'L04': ['L04','ACTACGTCTCT','AGAGTTTGATCMTGGCTCAG','OL','MID10','950738','F','Elder','Gingiva'],'L03': ['L03','ACGTAGATCGT','AGAGTTTGATCMTGGCTCAG','OL','MID9','747464','F','Adult','Cheek'],'L02': ['L02','ACGTACTGTGT','AGAGTTTGATCMTGGCTCAG','OL','MID8','926093','F','Adult','Gingiva'],'L01': ['L01','ACGTACACACT','AGAGTTTGATCMTGGCTCAG','OL','MID7','721508','M','Adult','Gingiva'],'C01': ['C01','ACACGACGACT','AGAGTTTGATCMTGGCTCAG','CTRL','MID1','987871','F','Adult','Gingiva'],'C02': ['C02','ACACGTAGTAT','AGAGTTTGATCMTGGCTCAG','CTRL','MID2','992537','F','Young','Gingiva'],'C03': ['C03','ACACTACTCGT','AGAGTTTGATCMTGGCTCAG','CTRL','MID3','987642','F','Young','Gingiva'],'C04': ['C04','ACGACACGTAT','AGAGTTTGATCMTGGCTCAG','CTRL','MID4','1052076','M','Young','Gingiva'],'C05': ['C05','ACGAGTAGACT','AGAGTTTGATCMTGGCTCAG','CTRL','MID5','1049767','M','Young','Gingiva'],'S08': ['S08','ATAGTATACGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID19','736175','F','Elder','Tongue'],'S09': ['S09','CAGTACGTACT','AGAGTTTGATCMTGGCTCAG','OSCC','MID20','647236','M','Elder','Lip'],'S01': ['S01','ACTCGCGTCGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID12','382452','M','Adult','Tongue'],'S02': ['S02','AGACTCGACGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID13','511430','M','Elder','Other'],'S03': ['S03','AGTACGAGAGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID14','810091','F','Elder','Gingiva'],'S04': ['S04','AGTACTACTAT','AGAGTTTGATCMTGGCTCAG','OSCC','MID15','1025792','F','Young','Gingiva'],'S05': ['S05','AGTAGACGTCT','AGAGTTTGATCMTGGCTCAG','OSCC','MID16','707386','M','Elder','Tongue'],'S06': ['S06','AGTCGTACACT','AGAGTTTGATCMTGGCTCAG','OSCC','MID17','1062720','M','Adult','Other'],'S07': ['S07','AGTGTAGTAGT','AGAGTTTGATCMTGGCTCAG','OSCC','MID18','434620','F','Elder','Gingiva'],'V10': ['V10','ACGCGTCTAGT','AGAGTTTGATCMTGGCTCAG','PVL','MID6','744810','F','Elder','Gingiva'] };
+var g_animatableMappingFileHeaders = ['Number'];
+
+var g_spherePositions = new Array();
+g_spherePositions['C01'] = { 'name': 'C01', 'color': 0, 'x': -0.106463, 'y': -0.287410, 'z': 0.206307, 'P1': -0.106463, 'P2': -0.287410, 'P3': 0.206307, 'P4': -0.045450, 'P5': 0.039598, 'P6': -0.100797, 'P7': 0.103450, 'P8': -0.025986, 'P9': 0.000762, 'P10': 0.015595 };
+g_spherePositions['C02'] = { 'name': 'C02', 'color': 0, 'x': 0.033158, 'y': -0.072461, 'z': 0.153708, 'P1': 0.033158, 'P2': -0.072461, 'P3': 0.153708, 'P4': 0.028332, 'P5': -0.041965, 'P6': 0.115369, 'P7': 0.200013, 'P8': -0.021122, 'P9': 0.072898, 'P10': -0.212110 };
+g_spherePositions['C03'] = { 'name': 'C03', 'color': 0, 'x': 0.293915, 'y': 0.076559, 'z': -0.000193, 'P1': 0.293915, 'P2': 0.076559, 'P3': -0.000193, 'P4': 0.053555, 'P5': 0.029810, 'P6': 0.025228, 'P7': -0.005958, 'P8': -0.088238, 'P9': 0.038736, 'P10': -0.028335 };
+g_spherePositions['C04'] = { 'name': 'C04', 'color': 0, 'x': 0.102485, 'y': 0.032447, 'z': -0.022856, 'P1': 0.102485, 'P2': 0.032447, 'P3': -0.022856, 'P4': -0.086582, 'P5': -0.051301, 'P6': 0.202368, 'P7': 0.011084, 'P8': -0.054819, 'P9': 0.077256, 'P10': -0.028212 };
+g_spherePositions['C05'] = { 'name': 'C05', 'color': 0, 'x': 0.195118, 'y': 0.070533, 'z': 0.041850, 'P1': 0.195118, 'P2': 0.070533, 'P3': 0.041850, 'P4': -0.043361, 'P5': 0.074669, 'P6': 0.000168, 'P7': -0.010672, 'P8': -0.008018, 'P9': 0.068344, 'P10': -0.001885 };
+g_spherePositions['L01'] = { 'name': 'L01', 'color': 0, 'x': 0.299568, 'y': -0.049378, 'z': 0.029525, 'P1': 0.299568, 'P2': -0.049378, 'P3': 0.029525, 'P4': -0.014315, 'P5': 0.019172, 'P6': 0.049165, 'P7': 0.017405, 'P8': 0.031376, 'P9': -0.019203, 'P10': 0.075575 };
+g_spherePositions['L02'] = { 'name': 'L02', 'color': 0, 'x': 0.147506, 'y': -0.116544, 'z': -0.069412, 'P1': 0.147506, 'P2': -0.116544, 'P3': -0.069412, 'P4': -0.029843, 'P5': 0.022256, 'P6': 0.038435, 'P7': -0.115974, 'P8': -0.000333, 'P9': -0.150215, 'P10': 0.012963 };
+g_spherePositions['L03'] = { 'name': 'L03', 'color': 0, 'x': 0.184412, 'y': -0.034561, 'z': -0.126885, 'P1': 0.184412, 'P2': -0.034561, 'P3': -0.126885, 'P4': 0.009279, 'P5': 0.044273, 'P6': -0.126739, 'P7': -0.062100, 'P8': 0.034167, 'P9': -0.091791, 'P10': -0.116497 };
+g_spherePositions['L04'] = { 'name': 'L04', 'color': 0, 'x': 0.105461, 'y': 0.053649, 'z': 0.125007, 'P1': 0.105461, 'P2': 0.053649, 'P3': 0.125007, 'P4': -0.123904, 'P5': 0.057541, 'P6': -0.078654, 'P7': 0.032875, 'P8': 0.048078, 'P9': -0.040652, 'P10': -0.035739 };
+g_spherePositions['L05'] = { 'name': 'L05', 'color': 0, 'x': 0.188355, 'y': 0.051435, 'z': 0.050804, 'P1': 0.188355, 'P2': 0.051435, 'P3': 0.050804, 'P4': -0.125812, 'P5': 0.059955, 'P6': 0.036109, 'P7': -0.037831, 'P8': 0.050762, 'P9': 0.048062, 'P10': -0.075920 };
+g_spherePositions['L06'] = { 'name': 'L06', 'color': 0, 'x': -0.166307, 'y': 0.012499, 'z': -0.204652, 'P1': -0.166307, 'P2': 0.012499, 'P3': -0.204652, 'P4': -0.087400, 'P5': -0.045355, 'P6': -0.071938, 'P7': 0.030380, 'P8': 0.066992, 'P9': -0.012615, 'P10': 0.016877 };
+g_spherePositions['L07'] = { 'name': 'L07', 'color': 0, 'x': -0.057729, 'y': -0.038436, 'z': -0.070806, 'P1': -0.057729, 'P2': -0.038436, 'P3': -0.070806, 'P4': -0.049212, 'P5': 0.047085, 'P6': -0.139486, 'P7': 0.150090, 'P8': 0.051875, 'P9': -0.105613, 'P10': -0.042305 };
+g_spherePositions['L08'] = { 'name': 'L08', 'color': 0, 'x': 0.319788, 'y': -0.120878, 'z': -0.007937, 'P1': 0.319788, 'P2': -0.120878, 'P3': -0.007937, 'P4': 0.000073, 'P5': -0.004711, 'P6': 0.026108, 'P7': -0.115008, 'P8': 0.097682, 'P9': 0.038446, 'P10': -0.008849 };
+g_spherePositions['L09'] = { 'name': 'L09', 'color': 0, 'x': 0.061391, 'y': -0.016458, 'z': 0.025668, 'P1': 0.061391, 'P2': -0.016458, 'P3': 0.025668, 'P4': -0.013811, 'P5': 0.057242, 'P6': 0.008495, 'P7': 0.039383, 'P8': -0.024471, 'P9': -0.110202, 'P10': -0.108091 };
+g_spherePositions['L10'] = { 'name': 'L10', 'color': 0, 'x': 0.151549, 'y': -0.262911, 'z': -0.092290, 'P1': 0.151549, 'P2': -0.262911, 'P3': -0.092290, 'P4': -0.034943, 'P5': -0.081607, 'P6': -0.062608, 'P7': 0.006112, 'P8': -0.069790, 'P9': -0.187063, 'P10': 0.075585 };
+g_spherePositions['S01'] = { 'name': 'S01', 'color': 0, 'x': -0.139110, 'y': -0.187220, 'z': -0.037541, 'P1': -0.139110, 'P2': -0.187220, 'P3': -0.037541, 'P4': -0.013862, 'P5': 0.082063, 'P6': 0.182440, 'P7': 0.069462, 'P8': -0.117231, 'P9': -0.054671, 'P10': 0.048182 };
+g_spherePositions['S02'] = { 'name': 'S02', 'color': 0, 'x': 0.296701, 'y': -0.063146, 'z': -0.056120, 'P1': 0.296701, 'P2': -0.063146, 'P3': -0.056120, 'P4': 0.084402, 'P5': 0.027730, 'P6': 0.001138, 'P7': 0.053295, 'P8': -0.019238, 'P9': -0.010319, 'P10': 0.066160 };
+g_spherePositions['S03'] = { 'name': 'S03', 'color': 0, 'x': -0.146306, 'y': 0.107595, 'z': 0.291902, 'P1': -0.146306, 'P2': 0.107595, 'P3': 0.291902, 'P4': -0.028289, 'P5': 0.001019, 'P6': -0.207379, 'P7': -0.120827, 'P8': -0.061799, 'P9': 0.058517, 'P10': 0.065044 };
+g_spherePositions['S04'] = { 'name': 'S04', 'color': 0, 'x': -0.157044, 'y': 0.282936, 'z': -0.116745, 'P1': -0.157044, 'P2': 0.282936, 'P3': -0.116745, 'P4': 0.256441, 'P5': 0.036795, 'P6': -0.042226, 'P7': 0.040036, 'P8': 0.026647, 'P9': -0.021655, 'P10': -0.002336 };
+g_spherePositions['S05'] = { 'name': 'S05', 'color': 0, 'x': -0.133505, 'y': 0.055705, 'z': 0.103747, 'P1': -0.133505, 'P2': 0.055705, 'P3': 0.103747, 'P4': 0.370736, 'P5': 0.126737, 'P6': 0.002765, 'P7': 0.045980, 'P8': 0.136166, 'P9': -0.005741, 'P10': 0.074070 };
+g_spherePositions['S06'] = { 'name': 'S06', 'color': 0, 'x': -0.275145, 'y': -0.249251, 'z': 0.123159, 'P1': -0.275145, 'P2': -0.249251, 'P3': 0.123159, 'P4': 0.046647, 'P5': 0.055299, 'P6': 0.087487, 'P7': 0.074624, 'P8': -0.068496, 'P9': -0.067788, 'P10': 0.077258 };
+g_spherePositions['S07'] = { 'name': 'S07', 'color': 0, 'x': -0.184934, 'y': -0.029179, 'z': -0.085131, 'P1': -0.184934, 'P2': -0.029179, 'P3': -0.085131, 'P4': 0.112447, 'P5': 0.044454, 'P6': 0.053867, 'P7': 0.065405, 'P8': 0.141288, 'P9': 0.065119, 'P10': 0.027360 };
+g_spherePositions['S08'] = { 'name': 'S08', 'color': 0, 'x': -0.188179, 'y': -0.304672, 'z': 0.195981, 'P1': -0.188179, 'P2': -0.304672, 'P3': 0.195981, 'P4': 0.187991, 'P5': -0.024230, 'P6': 0.084326, 'P7': -0.292080, 'P8': 0.073281, 'P9': -0.012163, 'P10': -0.105372 };
+g_spherePositions['S09'] = { 'name': 'S09', 'color': 0, 'x': 0.269584, 'y': -0.030753, 'z': -0.091416, 'P1': 0.269584, 'P2': -0.030753, 'P3': -0.091416, 'P4': 0.171722, 'P5': -0.043127, 'P6': -0.029226, 'P7': 0.030200, 'P8': 0.026950, 'P9': 0.142968, 'P10': 0.087135 };
+g_spherePositions['S10'] = { 'name': 'S10', 'color': 0, 'x': 0.293945, 'y': -0.133849, 'z': -0.036768, 'P1': 0.293945, 'P2': -0.133849, 'P3': -0.036768, 'P4': 0.140016, 'P5': -0.013275, 'P6': -0.110568, 'P7': 0.008577, 'P8': -0.084056, 'P9': 0.088100, 'P10': 0.023584 };
+g_spherePositions['S11'] = { 'name': 'S11', 'color': 0, 'x': -0.086754, 'y': 0.314062, 'z': 0.069434, 'P1': -0.086754, 'P2': 0.314062, 'P3': 0.069434, 'P4': -0.047304, 'P5': -0.127089, 'P6': -0.057182, 'P7': -0.069392, 'P8': -0.135213, 'P9': 0.002435, 'P10': 0.011997 };
+g_spherePositions['S12'] = { 'name': 'S12', 'color': 0, 'x': -0.026086, 'y': 0.251495, 'z': -0.036743, 'P1': -0.026086, 'P2': 0.251495, 'P3': -0.036743, 'P4': 0.039356, 'P5': 0.104268, 'P6': -0.022853, 'P7': -0.016458, 'P8': -0.078967, 'P9': -0.055856, 'P10': -0.027149 };
+g_spherePositions['S13'] = { 'name': 'S13', 'color': 0, 'x': 0.113402, 'y': 0.083348, 'z': 0.265655, 'P1': 0.113402, 'P2': 0.083348, 'P3': 0.265655, 'P4': -0.009679, 'P5': -0.282398, 'P6': 0.053682, 'P7': 0.045079, 'P8': 0.015856, 'P9': -0.003142, 'P10': 0.146882 };
+g_spherePositions['S14'] = { 'name': 'S14', 'color': 0, 'x': -0.082019, 'y': 0.349971, 'z': -0.045465, 'P1': -0.082019, 'P2': 0.349971, 'P3': -0.045465, 'P4': 0.053237, 'P5': 0.046661, 'P6': 0.037647, 'P7': -0.012540, 'P8': -0.115269, 'P9': 0.012226, 'P10': 0.012294 };
+g_spherePositions['S15'] = { 'name': 'S15', 'color': 0, 'x': -0.096402, 'y': 0.197807, 'z': 0.095655, 'P1': -0.096402, 'P2': 0.197807, 'P3': 0.095655, 'P4': -0.007170, 'P5': -0.333720, 'P6': 0.047805, 'P7': 0.019627, 'P8': 0.106570, 'P9': -0.153334, 'P10': -0.036925 };
+g_spherePositions['S16'] = { 'name': 'S16', 'color': 0, 'x': -0.028192, 'y': 0.202070, 'z': -0.018091, 'P1': -0.028192, 'P2': 0.202070, 'P3': -0.018091, 'P4': -0.068396, 'P5': 0.025562, 'P6': 0.045498, 'P7': -0.052488, 'P8': -0.007254, 'P9': 0.064678, 'P10': -0.049930 };
+g_spherePositions['V01'] = { 'name': 'V01', 'color': 0, 'x': -0.155145, 'y': -0.023066, 'z': -0.240283, 'P1': -0.155145, 'P2': -0.023066, 'P3': -0.240283, 'P4': 0.095185, 'P5': -0.262210, 'P6': -0.045326, 'P7': 0.011908, 'P8': -0.051717, 'P9': 0.084052, 'P10': -0.101082 };
+g_spherePositions['V02'] = { 'name': 'V02', 'color': 0, 'x': -0.194008, 'y': -0.274220, 'z': 0.041016, 'P1': -0.194008, 'P2': -0.274220, 'P3': 0.041016, 'P4': 0.016743, 'P5': -0.014491, 'P6': -0.121147, 'P7': 0.013960, 'P8': -0.118211, 'P9': 0.084490, 'P10': -0.112421 };
+g_spherePositions['V03'] = { 'name': 'V03', 'color': 0, 'x': -0.126377, 'y': 0.150994, 'z': 0.031716, 'P1': -0.126377, 'P2': 0.150994, 'P3': 0.031716, 'P4': -0.073102, 'P5': 0.053312, 'P6': -0.018750, 'P7': 0.037413, 'P8': 0.096490, 'P9': 0.004162, 'P10': 0.008556 };
+g_spherePositions['V04'] = { 'name': 'V04', 'color': 0, 'x': -0.197804, 'y': -0.063776, 'z': -0.138369, 'P1': -0.197804, 'P2': -0.063776, 'P3': -0.138369, 'P4': -0.099196, 'P5': 0.063960, 'P6': 0.000039, 'P7': -0.074813, 'P8': 0.063163, 'P9': 0.045313, 'P10': 0.024034 };
+g_spherePositions['V05'] = { 'name': 'V05', 'color': 0, 'x': 0.086761, 'y': 0.125826, 'z': -0.043216, 'P1': 0.086761, 'P2': 0.125826, 'P3': -0.043216, 'P4': -0.062143, 'P5': -0.011943, 'P6': -0.009861, 'P7': 0.003677, 'P8': 0.089830, 'P9': -0.068866, 'P10': -0.019820 };
+g_spherePositions['V06'] = { 'name': 'V06', 'color': 0, 'x': -0.054113, 'y': 0.110148, 'z': 0.160825, 'P1': -0.054113, 'P2': 0.110148, 'P3': 0.160825, 'P4': -0.199198, 'P5': 0.134421, 'P6': 0.021271, 'P7': 0.019285, 'P8': 0.006523, 'P9': 0.046044, 'P10': 0.035781 };
+g_spherePositions['V07'] = { 'name': 'V07', 'color': 0, 'x': -0.169676, 'y': -0.191902, 'z': -0.110721, 'P1': -0.169676, 'P2': -0.191902, 'P3': -0.110721, 'P4': -0.185613, 'P5': -0.051805, 'P6': -0.089665, 'P7': 0.003359, 'P8': 0.046656, 'P9': 0.116540, 'P10': 0.088375 };
+g_spherePositions['V08'] = { 'name': 'V08', 'color': 0, 'x': -0.079837, 'y': -0.001457, 'z': -0.072243, 'P1': -0.079837, 'P2': -0.001457, 'P3': -0.072243, 'P4': -0.189267, 'P5': 0.063091, 'P6': 0.067461, 'P7': -0.013758, 'P8': 0.124725, 'P9': 0.063295, 'P10': 0.011039 };
+g_spherePositions['V09'] = { 'name': 'V09', 'color': 0, 'x': -0.125153, 'y': 0.116374, 'z': -0.067797, 'P1': -0.125153, 'P2': 0.116374, 'P3': -0.067797, 'P4': 0.017405, 'P5': 0.181481, 'P6': 0.054530, 'P7': -0.067469, 'P8': -0.111920, 'P9': -0.071824, 'P10': 0.037083 };
+g_spherePositions['V10'] = { 'name': 'V10', 'color': 0, 'x': -0.166813, 'y': -0.093923, 'z': -0.220282, 'P1': -0.166813, 'P2': -0.093923, 'P3': -0.220282, 'P4': -0.045717, 'P5': -0.109229, 'P6': 0.093001, 'P7': -0.065310, 'P8': -0.072930, 'P9': 0.020271, 'P10': 0.071546 };
+
+var g_ellipsesDimensions = new Array();
+var g_segments = 8, g_rings = 8, g_radius = 0.007139;
+var g_xAxisLength = 0.594933;
+var g_yAxisLength = 0.654643;
+var g_zAxisLength = 0.532184;
+var g_xMaximumValue = 0.319788;
+var g_yMaximumValue = 0.349971;
+var g_zMaximumValue = 0.291902;
+var g_xMinimumValue = -0.275145;
+var g_yMinimumValue = -0.304672;
+var g_zMinimumValue = -0.240283;
+var g_maximum = 0.370736;
+var g_pc1Label = "PC1 (16.70 %)";
+var g_pc2Label = "PC2 (14.77 %)";
+var g_pc3Label = "PC3 (8.43 %)";
+var g_number_of_custom_axes = 0;
+var g_fractionExplained = [0.167044, 0.147670, 0.084344, 0.071493, 0.059690, 0.039047, 0.035444, 0.032795, 0.032092, 0.027591];
+var g_fractionExplainedRounded = [16.70, 14.77, 8.43, 7.15, 5.97, 3.90, 3.54, 3.28, 3.21, 2.76];
+
+var g_taxaPositions = new Array();
+
+
+var g_vectorPositions = new Array();
+
+var g_comparisonPositions = new Array();
+var g_isSerialComparisonPlot = true;
+document.getElementById("logo").style.display = 'none';
+document.getElementById("logotable").style.display = 'none';
+
+ </script>
+</head>
+
+<body>
+
+<div id="overlay">
+    <div>
+    <img src="emperor_required_resources/img/emperor.png" alt="Emperor" id="small-logo"/>
+        <h1>WebGL is not enabled!</h1>
+        <p>Emperor's visualization framework is WebGL based, it seems that your system doesn't have this resource available. Here is what you can do:</p>
+        <p id="explanation"><strong>Chrome:</strong> Type "chrome://flags/" into the address bar, then search for "Disable WebGL". Disable this option if you haven't already. <em>Note:</em> If you follow these steps and still don't see an image, go to "chrome://flags/" and then search for "Override software rendering list" and enable this option.</p>
+        <p id="explanation"><strong>Safari:</strong> Open Safari's menu and select Preferences. Click on the advanced tab, and then check "Show Developer" menu. Then open the "Developer" menu and select "Enable WebGL".</p>
+        <p id="explanation"><strong>Firefox:</strong> Go to Options through Firefox > Options or Tools > Options. Go to Advanced, then General. Check "Use hardware acceleration when available" and restart Firefox.</p>
+        <p id="explanation"><strong>Other browsers:</strong> The only browsers that support WebGL are Chrome, Safari, and Firefox. Please switch to these browsers when using Emperor.</p>
+        <p id="explanation"><em>Note:</em> Once you went through these changes, reload the page and it should work!</p>
+        <p id="source">Sources: Instructions for <a href="https://www.biodigitalhuman.com/home/enabling-webgl.html">Chrome and Safari</a>, and <a href="http://www.infewbytes.com/?p=144">Firefox</a></p>
+    </div>
+</div>
+
+<div id="emperor-plot-toggle">
+    <form>
+      <div id="plottype">
+        <input id="pcoa" type="radio" id="pcoa" name="plottype" checked="checked" /><label for="pcoa">PCoA</label>
+        <input id="parallel" type="radio" id="parallel" name="plottype" /><label for="parallel">Parallel</label>
+      </div>
+    </form>
+</div>
+<div id="pcoaPlotWrapper" class="emperor-plot-wrapper">
+    <label id="pointCount" class="ontop">
+    </label>
+
+    <div id="finder" class="arrow-right">
+    </div>
+
+    <div id="labels" class="unselectable">
+    </div>
+
+    <div id="taxalabels" class="unselectable">
+    </div>
+
+    <div id="axislabels" class="axis-labels">
+    </div>
+
+    <div id="main-plot">
+    </div>
+</div>
+
+<div id="parallelPlotWrapper" class="emperor-plot-wrapper">
+</div>
+
+<div id="emperor-separator" class="emperor-separator" ondblclick="separatorDoubleClick()"></div>
+
+<div id="emperor-menu">
+    <div id="emperor-menu-tabs">
+        <ul>
+            <li><a href="#keytab">Key</a></li>
+            <li><a href="#colorby">Colors</a></li>
+            <li><a href="#showby">Visibility</a></li>
+            <li><a href="#scalingby">Scaling</a></li>
+            <li><a href="#labelby">Labels</a></li>
+            <li><a href="#axes">Axes</a></li>
+            <li><a href="#animations">Animations</a></li>
+            <li><a href="#options">Options</a></li>
+        </ul>
+        <div id="keytab" class="emperor-tab-div">
+            <form name="keyFilter">
+                <label>Filter  </label><input name="filterBox" id="searchBox" type="text" onkeyup="filterKey()"></input>
+            </form>
+            <div id="key">
+            </div>
+        </div>
+        <div id="colorby" class="emperor-tab-div">
+            <select id="colormap-drop-down" class="emperor-tab-drop-down" onchange="colorByMenuChanged()"></select>
+            
+            <br><br>
+            <select id="colorbycombo" onchange="colorByMenuChanged()" class="emperor-tab-drop-down">
+            </select>
+            <div class="list" id="colorbylist">
+            </div>
+        </div>
+        <div id="showby" class="emperor-tab-div">
+            <table class="emperor-tab-table">
+                <tr>
+                    <td>
+                        <select id="showbycombo" onchange="showByMenuChanged()" class="emperor-tab-drop-down">
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="list" id="showbylist" style="height:100%%;width:100%%">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-left: 12px; padding-right:12px;">
+                        <hr class='section-break'>
+                        <br>
+                        <label for="sphereopacity" class="text">Global Sphere Opacity</label>
+                        <label id="sphereopacity" class="slidervalue"></label>
+                        <div id="sopacityslider" class="slider-range-max"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <button id="toggle-visibility-selection-button" onClick="toggleVisibleCategories()">Invert Selected</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="scalingby" class="emperor-tab-div">
+            <table class="emperor-tab-table">
+                <tr>
+                    <td>
+                        <select id="scalingbycombo" onchange="scalingByMenuChanged()" class="emperor-tab-drop-down">
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="list" id="scalingbylist" style="height:100%%;width:100%%">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-left: 12px; padding-right:12px;">
+                        <hr class='section-break'>
+                        <br>
+                        <label for="sphereradius" class="text">Global Sphere Scale</label>
+                        <label id="sphereradius" class="slidervalue"></label>
+                        <div id="sradiusslider" class="slider-range-max"></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="labelby" class="emperor-tab-div">
+            <div id="labels-top">
+                <form name="plotoptions">
+                    <input type="checkbox" onClick="toggleLabels()">Samples Label Visibility</input>
+                </form>
+                <br>
+                <label for="labelopacity" class="text">Label Opacity</label>
+                <label id="labelopacity" class="slidervalue"></label>
+                <div id="lopacityslider" class="slider-range-max"></div>
+                <div id="label-color-holder clearfix">
+                    <table class="emperor-tab-table">
+                        <tr><td><div id="labelColor" class="colorbox"></div></td><td><label>Master Label Color</label></td></tr>
+                        <br><br>
+                </table></div>
+            </div>
+            <br>
+            <select id="labelcombo" onchange="labelMenuChanged()" class="emperor-tab-drop-down">
+            </select>
+            <div class="list" id="label-list">
+            </div>
+        </div>
+        <div id="axes" class="emperor-tab-div">
+            <div id="pcoaaxes">
+                <div class="list" id="axeslist">
+                </div>
+            </div>
+        </div>
+        <div id="animations" class="emperor-tab-div">
+            <table class="emperor-tab-table-with-sliders">
+                <tr>
+                    <td>
+                        <a id="reset-button" class="media-button" href="javascript:void(0);" onclick="javascript:resetAnimation()"><img src="emperor_required_resources/img/reset.png" ></img></a>
+                        <a id="play-button" class="media-button" href="javascript:void(0);" onclick="javascript:playAnimation()"><img src="emperor_required_resources/img/play.png"></img></a>
+                        <a id="pause-button" class="media-button" href="javascript:void(0);" onclick="javascript:pauseAnimation()"><img src="emperor_required_resources/img/pause.png"></img></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="animation-speed" class="text">Speed</label>
+                        <label id="animation-speed" class="slidervalue"></label>
+                        <div id="animation-speed-slider" class="slider-range-max"></div>
+                        <div id="labelColorHolder clearfix">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <br><label for="gradient-category-drop-down" class="text">Gradient Category</label><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <select id="gradient-category-drop-down" class="emperor-tab-drop-down"></select><br>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="trajectory-category-drop-down" class="text">Trajectory Category</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <select id="trajectory-category-drop-down" class="emperor-tab-drop-down" onchange="colorAnimationsByCategoryChanged()"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="emperor-animation-color-selector">
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="options" class="emperor-tab-div">
+            <table class="emperor-tab-table">
+                <tr><td><div id="axeslabelscolor" class="colorbox" name="axeslabelscolor"></div></td><td title="Axes Labels Color">Axes Labels Color</td></tr>
+                <tr><td><div id="axescolor" class="colorbox" name="axescolor"></div></td><td title="Axes Color Title">Axes Color</td></tr>
+                <tr><td><div id="rendererbackgroundcolor" class="colorbox" name="rendererbackgroundcolor"></div></td><td title="Background Color Title">Background Color</td></tr>
+                <tr><td colspan="2">
+                        <div id="pcoaviewoptions" class="">
+                            <form name="settingsoptionscolor">
+                            </form>
+                            <div id="pcoaoptions" class="">
+                                <form name="settingsoptions">
+                                    <input type="checkbox" onchange="toggleScaleCoordinates(this)" id="scale_checkbox" name="scale_checkbox">Scale coords by percent explained</input>
+                                </form>
+                            </div>
+                            <br><input id="reset" class="button" type="submit" value="Recenter Camera" style="" onClick="resetCamera()">
+                            <br><br>
+                            <hr class='section-break'>
+                            <br>Filename <small>(only letters, numbers, ., - and _)</small>:
+                            <br><input name="saveas_name" id="saveas_name" value="screenshot" type="text"/>
+                            <br><input id="saveas_legends" class="checkbox" type="checkbox" style=""> Create legend
+                            <input id="saveas" class="button" type="submit" value="Save as SVG" style="" onClick="saveSVG()"/>
+                            <br><br>For a PNG, simply press 'ctrl+p'.
+                            <div id="paralleloptions" class="">
+                            </div>
+                        </div>
+                        <br>
+                </td></tr>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+Group	# Constructed from biom file	CTRL	OL	OL	OL	OL	OL	OL	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	PVL	PVL	PVL	PVL	PVL	PVL	PVL	PVL	PVL
+Sample	C01	C03	L02	L05	L06	L07	L09	L10	S02	S03	S04	S05	S06	S07	S08	S09	S10	S11	S12	S13	S14	V01	V02	V03	V04	V06	V07	V08	V09	V10
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Alphatorquevirus|Torque teno virus	0	1	0	1	17	1	0	0	320	59414	3053	6	23	403	1	16	574	1	907	0	17	982	23111	2299	0	1	422	85	0	35
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Anelloviridae_n_u|Anelloviridae_n_u_u	0	3	0	8	11	0	0	0	444	6832	3087	0	4	268	37	9	431	1	528	1	7	2348	31775	3041	0	2	268	38	1	36
+Viruses|I:dsDNA|I:dsDNA_n|Papillomaviridae|Papillomaviridae_n|Papillomaviridae_n_u|Papillomaviridae_n_u_u	0	8	0	0	0	0	0	55	0	1	26598	1	0	0	0	0	0	1	0	0	0	0	1	20	40	1	0	0	0	2901
+Viruses|I:dsDNA|I:dsDNA_n|Papillomaviridae|Papillomaviridae_n|Papillomaviridae_n_n|Human papillomavirus	0	7	0	0	0	0	0	8	2	0	28737	1	2	0	0	2	0	0	0	0	0	0	0	1	0	3	0	0	0	2
+Viruses|II:ssDNA|II:ssDNA_n|Circoviridae|Circoviridae_n|Circoviridae_n_n|Porcine stool-associated circular virus 5	1	1	3	89	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	18	17147	0	0	0	2	0	0	0	0	0
+Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses|undetermined Viruses	26	37	192	46	419	105	40	532	329	848	1041	443	376	535	320	199	413	27	203	237	22	299	6889	199	29	37	34	27	232	403
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus K	13	6	60	17	180	16	29	172	49	2	5	136	195	239	91	72	72	7	43	63	0	14	4	23	3	8	10	5	60	10
+Viruses|I:dsDNA|Herpesvirales|Herpesviridae|Betaherpesvirinae|Cytomegalovirus|Cercopithecine herpesvirus 5	5	5	78	61	111	17	5	113	55	2	5	113	82	103	53	37	66	6	39	53	4	14	5	25	1	8	5	1	55	37
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Anelloviridae_n_n|Anelloviridae_n_n_u	0	0	0	0	2	0	0	0	12	5	80	0	2	33	0	0	53	1	486	0	1	9	12	322	0	0	26	22	0	11
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Anelloviridae_n_n|Torque teno midi virus	0	0	0	0	0	0	0	0	132	180	0	0	21	180	22	3	69	0	399	0	0	5	0	20	0	0	3	7	0	37
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus	9	0	20	10	79	12	9	103	34	0	5	66	74	97	58	28	45	4	28	38	0	1	7	23	7	5	8	3	41	32
+Viruses|I:dsDNA|I:dsDNA_n|Papillomaviridae|Papillomaviridae_n|Alphapapillomavirus|Alphapapillomavirus 9	10	3	21	2	47	6	4	77	43	0	1	67	48	51	47	23	30	0	13	28	0	2	5	10	2	9	5	2	42	5
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus H	8	0	27	7	36	5	2	40	30	3	0	62	31	51	27	16	36	1	28	12	0	9	5	11	1	0	2	3	16	4
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Retroviridae_n_n_u	0	1	9	9	31	5	0	52	26	0	0	38	17	38	20	16	32	3	21	23	0	4	0	4	0	5	2	2	26	3
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Orthoretrovirinae|Lentivirus|Human immunodeficiency virus 2	0	4	3	6	22	0	1	42	10	0	2	26	20	28	18	11	12	1	5	14	0	11	0	4	2	2	2	4	14	11
+Viruses|I:dsDNA|Herpesvirales|Herpesviridae|Gammaherpesvirinae|Lymphocryptovirus|Human herpesvirus 4	0	1	9	7	8	1	0	24	16	1	0	18	16	10	15	7	9	2	6	13	0	1	82	4	1	5	1	0	12	1
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_u|Retroviridae_u_u|Retroviridae_u_u_u	0	0	0	0	8	2	2	21	8	0	2	22	11	18	11	5	9	2	6	7	0	1	0	3	1	0	3	0	10	89
+Viruses|I:dsDNA|I:dsDNA_u|I:dsDNA_u_u|I:dsDNA_u_u_u|I:dsDNA_u_u_u_u|I:dsDNA_u_u_u_u_u	1	0	7	10	12	2	0	20	12	0	1	14	7	15	8	10	35	6	1	5	0	0	5	4	0	2	1	2	8	19
+Viruses|I:dsDNA|I:dsDNA_n|Polyomaviridae|Polyomaviridae_n|Betapolyomavirus|Macaca mulatta polyomavirus 1	0	0	11	1	5	0	12	14	4	0	0	15	33	27	4	7	5	2	3	5	0	0	0	1	1	0	1	0	5	3
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Orthoretrovirinae|Lentivirus|Human immunodeficiency virus 1	2	0	4	1	9	0	2	17	6	0	0	10	11	11	8	3	8	1	1	3	0	0	0	0	0	3	0	0	3	0
+Viruses|I:dsDNA|I:dsDNA_n|Phycodnaviridae|Phycodnaviridae_n|Chlorovirus|Chlorovirus_u	0	0	51	2	0	0	0	0	8	0	0	1	0	1	0	0	3	1	0	0	1	0	0	0	0	0	0	0	1	1
+Viruses|VI-VII:RT|VI-VII:RT_n|Retroviridae|Retroviridae_n|Retroviridae_n_n|Human endogenous retrovirus W	0	0	1	0	6	1	0	9	2	0	0	5	2	20	3	2	1	0	1	0	0	0	0	3	0	0	1	1	6	0
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Alphatorquevirus|Torque teno virus 16	0	0	0	2	0	0	0	0	7	43	0	0	0	0	0	0	17	0	0	0	0	9	0	0	0	0	0	0	0	0
+Viruses|II:ssDNA|II:ssDNA_n|Anelloviridae|Anelloviridae_n|Anelloviridae_n_n|Small anellovirus	0	0	0	0	0	0	0	0	8	0	0	0	2	1	0	2	7	0	56	0	0	0	0	1	0	0	0	1	0	0
+Viruses|I:dsDNA|Herpesvirales|Herpesviridae|Herpesviridae_u|Herpesviridae_u_u|Herpesviridae_u_u_u	0	1	1	3	5	1	4	6	1	0	0	6	1	15	5	0	2	0	1	1	1	0	0	4	0	0	0	1	4	0
+Viruses|n_n_n_n_n_Stealth virus 4|n_n_n_n_Stealth virus 4|n_n_n_Stealth virus 4|n_n_Stealth virus 4|n_Stealth virus 4|Stealth virus 4	0	0	1	0	2	11	0	4	0	0	0	0	4	2	1	3	1	1	3	1	0	0	0	2	0	1	1	0	2	1
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Streptococcus phage Dp-1	0	0	1	0	0	22	0	0	0	0	0	0	0	0	0	0	0	13	4	0	0	0	0	9	0	33	85	18438	0	2
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Siphoviridae_n_n_u	26	3	7	542	814	45	15	0	2	1	14	0	1	19	0	1	29	107	0	23	44	832	60	1252	140	2510	153	6890	10	315
+Bacteriophages|undetermined Bacteriophages|undetermined Bacteriophages|undetermined Bacteriophages|undetermined Bacteriophages|undetermined Bacteriophages|undetermined Bacteriophages	1830	19	68	71	4	105	30	0	6	1	15	1	3	60	0	4	28	36	0	13	8	985	15	51	478	168	1563	1741	47	27
+Bacteriophages|I:dsDNA|Caudovirales|Caudovirales_u|Caudovirales_u_u|Caudovirales_u_u_u|Caudovirales_u_u_u_u	103	0	6	40	4	182	3	1	0	4	91	1	0	8	0	0	27	17	3	1	12	48	12	1106	81	64	284	349	17	28
+Bacteriophages|n_n_n_n_n_uncultured phage crAssphage|n_n_n_n_uncultured phage crAssphage|n_n_n_uncultured phage crAssphage|n_n_uncultured phage crAssphage|n_uncultured phage crAssphage|uncultured phage crAssphage	0	0	0	0	628	150	677	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	3	0	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|T5virus|Salmonella phage 5	0	0	7	5	40	26	5	97	2	0	2	98	293	444	108	96	159	0	2	4	0	4	0	1	0	3	2	7	7	3
+Bacteriophages|II:ssDNA|II:ssDNA_n|Microviridae|Microviridae_u|Microviridae_u_u|Microviridae_u_u_u	0	467	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	233	2	0	0	0	0	58	0	463	3	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Siphovirus contig89	0	0	0	191	26	0	0	0	0	0	0	0	0	0	0	0	0	378	0	0	0	0	0	8	4	329	0	191	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_u|Siphoviridae_n_u_u	0	0	0	6	0	8	0	1	0	2	2	0	0	1	0	0	1	38	0	0	5	19	3	4	10	10	89	522	1	3
+Bacteriophages|II:ssDNA|II:ssDNA_n|Inoviridae|Inoviridae_n|Inoviridae_n_n|Ralstonia phage 1 NP-2014	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	633	0	0	0
+Bacteriophages|II:ssDNA|II:ssDNA_n|Inoviridae|Inoviridae_n|Inoviridae_n_u|Inoviridae_n_u_u	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	615	0	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Lambdavirus|Escherichia virus Lambda	8	3	12	9	30	6	0	59	25	0	0	41	48	115	35	22	47	1	14	26	0	6	3	12	4	2	4	1	37	12
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Streptococcus phage SM1	399	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	91	35	0	2	6	0	1
+Bacteriophages|I:dsDNA|Caudovirales|Myoviridae|Myoviridae_n|Myoviridae_n_n|Streptococcus phage EJ-1	336	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	41	0	0	0	2	3	0	0	0	6	1	0	1
+Bacteriophages|I:dsDNA|Caudovirales|Myoviridae|Myoviridae_u|Myoviridae_u_u|Myoviridae_u_u_u	0	0	47	1	1	0	0	0	1	0	153	0	1	1	0	0	12	1	0	0	0	5	0	31	0	13	0	2	0	12
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Streptococcus phage PH10	230	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	19	7	0	5	3	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Lambdavirus|Lambdavirus_u	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	2	4	0	0	0	0	0	0	0	146	1	0	51	0	8
+Bacteriophages|I:dsDNA|Caudovirales|Myoviridae|Myoviridae_n|Myoviridae_n_n|Myoviridae_n_n_u	0	0	23	6	1	0	0	0	11	0	29	0	0	1	0	0	6	1	3	1	2	6	0	7	9	1	1	2	0	7
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Rhodococcus phage ReqiPoco6	0	0	0	36	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	3	14	0	12	0	4
+Bacteriophages|I:dsDNA|I:dsDNA_u|I:dsDNA_u_u|I:dsDNA_u_u_u|I:dsDNA_u_u_u_u|I:dsDNA_u_u_u_u_u	0	0	2	0	0	26	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	2	0	1	0	8	0	36	0	4
+Bacteriophages|II:ssDNA|II:ssDNA_n|Microviridae|Microviridae_n|Pequenovirus|Eel River basin pequenovirus	0	56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	0	0	0	0	6	0	3	0	0	0
+Bacteriophages|I:dsDNA|Caudovirales|Siphoviridae|Siphoviridae_n|Siphoviridae_n_n|Moraxella phage Mcat6	0	0	5	3	0	0	0	0	0	0	0	0	0	3	0	3	3	1	0	0	1	1	0	0	1	2	1	0	0	0
+Bacteriophages|n_n_n_n_n_uncultured Mediterranean phage uvMED|n_n_n_n_uncultured Mediterranean phage uvMED|n_n_n_uncultured Mediterranean phage uvMED|n_n_uncultured Mediterranean phage uvMED|n_uncultured Mediterranean phage uvMED|uncultured Mediterranean phage uvMED	0	0	3	0	0	3	2	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0

@@ -1,0 +1,2 @@
+Group1	Group2	Group1 mean	Group1 std	Group2 mean	Group2 std	t stat	p-value
+M	F	93.9644615385	33.2333151373	90.7847727273	40.3734820643	0.233001987792	0.831

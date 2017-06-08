@@ -1,0 +1,316 @@
+Group	CTRL	CTRL	CTRL	CTRL	OL	OL	OL	OL	OL	OL	OL	OL	OL	OL	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	OSCC	PVL	PVL	PVL	PVL	PVL	PVL	PVL	PVL	PVL	PVL
+Sample	C01	C02	C03	C04	L01	L02	L03	L04	L05	L06	L07	L08	L09	L10	S02	S03	S04	S05	S06	S07	S08	S09	S10	S11	S12	S13	S15	S16	V01	V02	V03	V04	V05	V06	V07	V08	V09	V10
+Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia|Yarrowia lipolytica	1	0	0	1	1	1	8021	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1697	1393	83	2	0	0	1	1	0	1	1	1	0
+Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida|Candida orthopsilosis	0	10	1	0	0	0	16	0	0	2	0	4	0	3	1	0	0	0	7	75	0	2	1	0	0	24	47	4102	4	225	5	266	0	4	0	0	0	0
+Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia globosa	0	5	2	0	44	1	86	48	1	0	0	15	8	0	73	0	0	0	2	3	0	11	48	0	0	17	0	4	0	1	0	0	0	2	0	0	0	539
+Eukaryota|Ascomycota|Ascomycota_u|Ascomycota_u_u|Ascomycota_u_u_u|Ascomycota_u_u_u_u|Ascomycota_u_u_u_u_u	0	1	0	0	42	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	1	0	0	0	0	0
+Bacteria|undetermined Bacteria|undetermined Bacteria|undetermined Bacteria|undetermined Bacteria|undetermined Bacteria|undetermined Bacteria	44	255	414	36004	734	2050	102	71	2193	230	176	19862	213	580	494	163	340	554	4938	5575	811	731	6073	13733	300	90	159	127	99	159	154	61	588	2510	241	73	89	576
+Bacteria|Verrucomicrobia|Verrucomicrobiae|Verrucomicrobiales|Akkermansiaceae|Akkermansia|Akkermansia muciniphila	0	1	0	0	1	2	1	4	87937	0	0	0	0	0	0	0	0	0	0	0	0	1	6	0	219	0	0	0	0	0	0	2	6	1	6	4	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas_u	1	37	5	4	2064	10013	2283	501	5456	566	18301	8181	4835	1042	2	3	3	41	5996	2024	122	193	10993	1	1	2	0	3	3	3	2	3	4	180	130	53	1081	2477
+Bacteria|Actinobacteria|Actinobacteria|Actinobacteria_u|Actinobacteria_u_u|Actinobacteria_u_u_u|Actinobacteria_u_u_u_u	0	3	1	0	89	199	75	63312	116	5	14	28	11	15	9	3	4	8	292	454	9	119	3026	3	14	2	19	7	3	3	0	152	167	144	139	255	197	13
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella salivae	0	1	7	28	0	0	2	0	0	19	0	0	0	0	0	0	33474	0	1	3	0	0	0	183	2	0	0	0	85	0	0	0	4	0	14720	3	1	6
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus parasanguinis	0	0	0	3	5	0	0	0	63	14	0	0	0	0	0	0	0	0	0	0	0	0	1	26	0	0	0	0	0	0	0	2	11	0	40896	339	1	17
+Bacteria|Proteobacteria|Proteobacteria_u|Proteobacteria_u_u|Proteobacteria_u_u_u|Proteobacteria_u_u_u_u|Proteobacteria_u_u_u_u_u	3	17	34	64	606	555	50	19	167	36	1039	29815	202	84	8	35	57	80	370	168	100	90	1351	1172	10	62	2	6	86	47	12	6	88	49	47	37	41	128
+Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium_u	3	25	3	2	2907	7621	487	98	3704	42	530	5221	631	65	23	117	5	8	698	2444	15	195	5922	5	16	63	800	10	4	11	3	271	25	55	8	11	134	865
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum autotrophicum	0	0	3	1	1883	479	233	6	4414	17	1097	5004	577	155	0	0	0	0	675	377	0	19	751	0	0	0	0	0	0	0	0	0	0	182	19	11	33	3
+Bacteria|Verrucomicrobia|Verrucomicrobiae|Verrucomicrobiales|Akkermansiaceae|Akkermansia|Akkermansia_u	0	0	0	0	1	1	0	0	15073	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	25	0	0	0	0	0	0	1	2	0	0	0	0	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Gammaproteobacteria_u|Gammaproteobacteria_u_u|Gammaproteobacteria_u_u_u|Gammaproteobacteria_u_u_u_u	0	2	0	274	4224	512	82	22	1103	28	1475	2063	192	31	2	0	0	13	266	160	4	16	675	41	1	2	0	0	2	3	3	0	3	23	13	6	30	274
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus_u	791	21	2	1596	234	71	22	1	312	51	50	11	3	4	70	0	1	0	0	9	1	2	17	3369	1	208	4	10	250	2014	187	13	160	773	268	108	19	23
+Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Bifidobacterium|Bifidobacterium dentium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	9260	0	1	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria_u	0	15	0	16	3	8	2	0	4	0	2	12	2	4	0	0	0	0	3	0	0	0	0	6619	0	0	0	0	3	6	0	4	68	2122	6	9	1	2
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Flavobacteriaceae_u|Flavobacteriaceae_u_u	0	0	3	1	1	7	0	0	1	2	3	6	46	0	8088	0	0	1	1	6	0	0	6	0	2	1	6	3	0	0	0	0	1	5	1	1	2	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Alphaproteobacteria_u|Alphaproteobacteria_u_u|Alphaproteobacteria_u_u_u|Alphaproteobacteria_u_u_u_u	2	10	7	2	7045	5	0	0	1	1	7	24	1	4	3	36	39	25	40	23	20	23	42	4	4	7	3	6	6	13	6	17	9	12	47	15	11	3
+Bacteria|Firmicutes|Firmicutes_u|Firmicutes_u_u|Firmicutes_u_u_u|Firmicutes_u_u_u_u|Firmicutes_u_u_u_u_u	1	2	185	165	65	7	1	2	40	10	0	0	0	1	6	0	1	0	2	3	2	1	0	662	24	28	0	1	1325	2599	42	9	65	51	3	48	5	4
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter_u	0	0	0	0	630	1393	0	10	544	2	6	1413	223	32	0	0	0	1	3	115	0	6	250	2	2	0	0	321	1	0	1	0	0	33	1	0	3	151
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Haemophilus|Haemophilus_u	0	86	0	1052	5	78	251	18	29	30	50	0	52	11	3	0	0	0	0	0	0	0	1	1653	1	1	0	0	7	314	89	105	267	100	23	301	4	36
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus_u	99	57	211	0	338	693	34	2	47	2	0	17	14	29	67	250	29	1	6	58	1	26	422	1	974	336	260	142	25	9	38	0	66	4	21	0	6	119
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas fluorescens	0	0	2	0	9	176	199	13	165	38	280	2809	128	6	0	0	0	0	157	63	0	8	212	0	0	0	0	0	0	0	0	0	0	3	2	2	60	104
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Micrococcus|Micrococcus luteus	1	1	2	0	2	34	8	135	6	0	356	18	2	1	1	0	0	1	284	291	2	47	1614	0	4	173	45	475	0	2	0	0	40	0	1	1	1	3
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Enterobacteriaceae_u|Enterobacteriaceae_u_u	0	1	0	0	1	12	0	6	3331	0	0	11	0	4	1	0	0	3	1	0	2	0	0	1	1	18	0	16	0	0	1	1	1	0	0	1	1	40
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella_u	0	0	0	725	5	21	197	1	7	71	8	7	1	5	12	2	120	2	1	15	5	0	0	1570	164	2	0	24	90	21	6	11	151	76	8	29	5	35
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Micrococcus|Micrococcus_u	1	1	0	0	5	42	1	3	7	0	0	96	0	1	2	0	0	0	688	174	0	98	1680	0	9	101	95	3	0	0	1	0	3	0	2	0	0	304
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus_u	0	1	0	0	0	0	0	0	556	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	2	2	0	0	2562	0	0	0	0	0	0	2	1	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas aeruginosa	0	2	5	0	2	7	0	3	0	5	1	2393	1	1	2	1	0	5	19	32	583	0	12	0	0	0	0	0	0	0	2	0	1	2	0	0	0	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. TKP	0	0	0	0	0	15	19	0	43	18	1077	114	602	166	0	0	0	1	168	19	0	8	168	0	0	0	0	0	0	0	0	0	0	0	0	0	16	67
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum_u	0	0	0	0	233	85	40	0	453	3	84	645	179	5	0	0	0	0	62	128	1	4	72	0	0	0	0	0	0	0	0	0	0	37	2	1	11	154
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Empedobacter|Empedobacter brevis	0	0	37	0	0	0	7	0	0	0	0	3	0	1	0	0	0	0	0	13	0	0	8	0	33	136	1213	587	8	19	0	1	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Rothia|Rothia mucilaginosa	0	5	0	0	123	3	2	0	3	2	287	0	0	23	0	0	0	0	0	0	0	0	118	39	0	0	0	0	0	1	0	1	51	167	96	1076	1	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium leprae	0	0	0	0	0	41	0	5	2	9	5	1	0	52	0	0	0	48	556	670	33	26	460	0	1	0	0	0	1	0	0	0	0	0	0	1	4	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum lusitanum	0	0	0	0	1	679	0	0	6	0	0	1201	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	6
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Oxalobacteraceae_u|Oxalobacteraceae_u_u	0	0	0	0	206	71	35	0	150	2	30	782	124	2	0	0	0	0	96	20	0	4	26	0	0	0	0	0	0	0	0	0	0	12	7	0	6	2
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Brucellaceae|Ochrobactrum|Ochrobactrum_u	0	0	0	0	4	1325	0	0	16	0	1	0	0	98	0	0	0	0	1	6	0	6	13	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Salmonella|Salmonella enterica	0	0	0	0	1370	1	3	0	0	4	0	0	0	1	0	1	0	4	13	29	4	5	12	1	0	0	1	1	1	0	1	0	1	0	0	0	3	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. Ag1	0	0	42	0	1	156	42	12	288	12	272	99	51	12	0	0	0	0	130	7	0	0	177	0	0	0	1	0	0	0	0	0	1	1	0	0	14	67
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus agalactiae	0	14	0	1308	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	41	0	0	0	0	3	1	0	3	0	5	9	0	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella_u	0	10	0	25	1	5	2	8	122	5	0	1	26	0	0	0	0	0	0	0	0	0	3	623	1	0	0	1	65	270	4	0	96	9	8	63	3	15
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Elizabethkingia|Elizabethkingia_u	0	0	0	0	112	10	1	0	83	0	145	827	2	0	0	0	0	0	1	3	0	1	13	0	0	0	1	0	0	15	0	0	0	1	30	1	2	62
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Mesorhizobium|Mesorhizobium_u	7	31	12	5	3	0	0	2	7	3	2	1	7	9	27	172	116	39	99	67	54	102	81	49	38	31	13	18	58	9	23	34	33	12	40	19	6	1
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga_u	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	510	1	0	0	0	1	66	94	58	12	425	0	9	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium_u	11	27	13	2	12	2	2	1	0	13	20	4	6	20	8	105	75	90	79	67	66	104	63	9	21	27	7	16	17	24	12	24	28	24	28	38	14	3
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Delftia|Delftia_u	0	0	0	1	2	10	1	1	8	2	13	7	352	1	0	0	0	0	46	223	1	9	352	0	0	1	5	1	0	0	0	0	0	3	0	0	1	14
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Pasteurellaceae_u|Pasteurellaceae_u_u	0	8	0	307	2	19	22	0	0	7	19	2	5	1	0	0	0	0	0	46	1	0	1	311	1	0	0	0	39	40	19	1	48	31	5	24	1	6
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Chryseobacterium|Chryseobacterium_u	0	0	27	0	0	1	0	0	3	0	1	0	5	0	894	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae|Stenotrophomonas|Stenotrophomonas maltophilia	0	0	0	0	0	2	1	0	4	0	0	0	0	1	0	0	0	0	0	52	0	0	52	0	0	0	0	0	0	0	0	0	0	0	0	0	169	608
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Haemophilus|Haemophilus parainfluenzae	1	0	0	457	1	0	5	0	0	4	2	0	1	0	0	0	0	1	0	3	0	0	0	129	0	0	0	0	0	2	35	74	87	5	1	41	2	8
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus pseudopneumoniae	249	0	0	481	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	1	0	5	1	1	1	5	1	1	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_u|Burkholderiales_u_u|Burkholderiales_u_u_u	0	3	2	0	69	9	2	0	45	0	15	298	21	2	2	11	12	14	61	44	13	21	57	2	1	2	2	0	11	3	13	1	4	0	8	6	1	5
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiales_u|Rhizobiales_u_u|Rhizobiales_u_u_u	4	10	5	1	20	68	3	4	7	2	20	117	39	34	3	23	32	19	40	15	15	25	90	2	1	6	1	5	7	10	5	10	8	8	63	12	6	5
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Rhizobiaceae_u|Rhizobiaceae_u_u	0	0	0	0	3	4	1	0	8	1	48	131	291	7	0	0	2	0	0	0	0	15	141	0	0	0	0	1	0	0	0	0	0	0	1	0	4	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus aureus	0	1	0	5	6	67	2	5	1	7	3	9	2	56	18	2	9	26	164	143	34	22	32	0	2	2	2	0	7	0	2	1	2	2	0	2	6	3
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella multiformis	1	0	0	312	0	0	0	0	0	267	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	21	0	0	0
+Bacteria|Firmicutes|Erysipelotrichia|Erysipelotrichales|Erysipelotrichaceae|Solobacterium|Solobacterium moorei	0	0	0	264	0	0	0	0	1	0	0	0	0	0	0	0	82	0	0	0	3	0	0	69	124	0	0	0	15	4	17	0	2	0	0	0	0	16
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriaceae|Corynebacterium|Corynebacterium_u	3	3	0	0	0	4	0	1	0	2	0	0	0	3	0	1	0	0	7	1	0	11	557	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_n|Aquabacterium|Aquabacterium sp. NJ1	1	7	7	1	0	0	0	0	0	0	0	0	0	0	8	49	57	40	79	88	31	43	41	2	3	1	4	6	16	22	14	11	21	5	10	20	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobiaceae_u|Bradyrhizobiaceae_u_u	3	16	14	1	1	0	1	1	0	1	4	0	2	3	7	43	52	50	38	36	37	35	38	8	10	12	3	11	16	16	7	16	19	8	34	28	0	1
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Sediminibacterium|Sediminibacterium sp. OR53	1	31	12	2	0	0	0	0	0	0	0	0	0	0	6	62	55	36	29	41	44	27	71	3	10	10	10	8	14	17	15	6	6	6	3	3	1	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Clostridiales_u|Clostridiales_u_u|Clostridiales_u_u_u	0	0	0	0	26	0	0	0	121	0	0	0	0	0	0	0	319	0	0	0	0	1	0	6	66	0	0	0	0	0	0	0	0	0	0	3	0	0
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium_u	0	0	0	56	0	0	6	0	8	14	0	0	0	1	0	0	77	0	0	6	27	0	0	156	14	0	0	0	4	1	18	46	17	40	0	23	24	1
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonadaceae_u|Porphyromonadaceae_u_u	0	0	0	10	23	104	2	0	11	10	0	102	8	0	1	1	0	0	0	0	0	0	0	130	0	0	0	0	4	9	0	0	71	18	0	22	0	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Xanthomonadales|Xanthomonadaceae|Stenotrophomonas|Stenotrophomonas_u	0	0	0	0	0	6	0	0	3	0	0	3	0	0	0	0	0	0	1	42	0	0	108	0	0	0	0	0	0	0	0	0	0	0	0	0	77	261
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidales_u|Bacteroidales_u_u|Bacteroidales_u_u_u	0	1	0	12	0	0	9	0	2	5	0	0	0	0	0	0	1	0	0	0	0	1	1	53	0	0	0	0	0	2	0	28	290	29	0	0	0	15
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus oralis	342	0	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	13	0	0	0	0	0	0	74	2	1	1	4	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus epidermidis	5	2	73	0	45	94	0	0	1	0	0	15	0	2	51	15	42	1	1	2	0	2	2	0	0	1	5	7	1	0	3	1	9	1	0	0	1	16
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus mitis	213	0	0	60	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	77	0	0	0	0	0	45	21	4	0	1	0	1	2	0
+Bacteria|Bacteroidetes|Bacteroidetes_n|Bacteroidetes_n_n|Bacteroidetes_n_n_n|Bacteroidetes_n_n_n_n|Bacteroidetes oral taxon 274	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	303	0	0	0	28	0	0	1	31	0	5	0	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella nanceiensis	0	0	0	1	0	0	0	0	14	1	2	0	0	0	0	0	0	0	0	0	0	0	0	311	0	0	0	0	1	24	0	0	9	15	0	3	0	4
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcales_u|Micrococcales_u_u|Micrococcales_u_u_u	0	0	0	0	0	0	1	2	4	0	0	85	0	0	0	0	1	0	16	68	1	12	168	0	2	6	9	0	0	0	0	0	0	1	0	0	1	4
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Haemophilus|Haemophilus influenzae	0	1	0	2	0	0	0	0	1	0	0	0	0	0	8	0	0	0	0	0	0	0	0	176	0	0	0	0	0	0	19	106	5	0	0	61	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillales_u|Bacillales_u_u|Bacillales_u_u_u	0	4	21	27	2	4	2	0	0	3	0	2	6	5	3	0	0	2	8	4	7	7	46	185	0	14	5	0	0	0	0	0	3	1	0	8	1	5
+Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter_u	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	254	2	0	0	6	0	0	7	0	0	0	0	0	0	2	11	15	3	24	7	19	3
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Empedobacter|Empedobacter_u	0	0	11	0	0	0	3	0	0	0	0	7	0	0	0	0	0	0	0	4	0	0	0	0	4	24	147	138	5	3	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Caulobacter|Caulobacter sp. Root656	0	0	0	0	0	1	1	1	0	5	0	0	2	12	0	0	0	4	13	13	13	12	273	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas syringae	0	0	0	0	0	19	17	11	2	5	29	5	0	5	0	0	0	9	32	63	5	2	119	0	1	1	0	0	0	0	0	0	0	1	8	0	2	2
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillales_n|Gemella|Gemella sanguinis	0	0	0	14	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	224	1	0	0	47	0	11
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella aurantiaca	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	312	0	0	0	0	0	2	0	2	4	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillales_u|Lactobacillales_u_u|Lactobacillales_u_u_u	0	98	0	3	3	4	0	0	0	1	0	0	1	0	2	0	1	0	0	4	0	0	0	49	0	0	18	4	19	5	7	0	19	0	64	2	0	13
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Aerococcaceae|Abiotrophia|Abiotrophia defectiva	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	299	0	0	0	0	0	0	0	0	1	6	5	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria gonorrhoeae	1	0	0	71	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	235	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Brevibacteriaceae|Brevibacterium|Brevibacterium_u	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	2	0	1	296	0	0	3	0	0	0	0	0	0	0	1	0	1	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella histicola	0	0	2	18	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	51	0	0	0	0	0	46	0	23	0	0	4	0	0	139
+Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Alteromonadaceae|Marinobacter|Marinobacter_u	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	264	2	1	0	1	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Haemophilus|Haemophilus sputorum	0	0	0	2	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	211	0	0	0	0	0	0	0	0	3	37	0	0	2	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus hominis	4	0	10	0	13	26	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	182	2	3	0	0	0	0	0	1	1	2	0	0	15
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga gingivalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	51	119	2	72	0	9	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillaceae|Bacillus|Bacillus cereus	0	2	0	0	0	3	1	3	0	4	0	1	0	12	3	0	0	9	34	20	16	5	117	0	0	3	0	0	0	1	0	0	0	0	0	0	4	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum sp. RV1423	0	0	0	0	8	1	49	0	1	4	5	46	0	1	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	93
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas_u	0	2	0	0	8	8	0	0	2	2	0	1	1	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	4	8	1	15	1	1	1	0	8
+Bacteria|Spirochaetes|Spirochaetia|Spirochaetales|Spirochaetaceae|Treponema|Treponema_u	0	4	0	0	0	0	0	0	0	0	0	0	0	0	157	0	0	0	0	0	0	0	0	3	2	0	0	1	0	0	13	0	0	10	0	0	11	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. DSM 28142	0	0	0	0	0	0	0	0	0	10	0	19	0	2	0	0	0	0	185	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Aggregatibacter|Aggregatibacter aphrophilus	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	102	0	0	0	3	0	0	0	0	0	0	98	0	1	2	0	5	0	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Peptostreptococcus|Peptostreptococcus stomatis	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	199	0	0	0	0	0	0	7	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Betaproteobacteria_u|Betaproteobacteria_u_u|Betaproteobacteria_u_u_u|Betaproteobacteria_u_u_u_u	0	2	0	2	24	1	3	0	6	0	3	24	5	0	1	8	14	10	22	10	7	13	22	0	0	0	2	0	4	6	2	4	0	1	4	2	2	4
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Mesorhizobium|Mesorhizobium sp. UASWS1009	0	5	4	1	1	0	0	1	0	0	1	0	1	0	1	30	19	3	9	15	14	12	8	10	9	6	0	2	14	2	1	2	8	4	6	1	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderiaceae_u|Burkholderiaceae_u_u	0	0	0	0	3	106	0	0	0	0	0	0	0	0	0	1	1	1	81	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. PAMC 25886	0	0	0	0	1	23	8	1	61	4	38	4	7	0	0	0	0	0	8	12	0	1	10	0	0	0	0	0	0	0	0	0	0	1	0	0	6	9
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Comamonadaceae_u|Comamonadaceae_u_u	0	0	0	0	0	1	0	0	0	0	1	0	0	0	2	0	1	1	10	60	1	2	101	0	3	2	0	3	3	1	0	0	0	0	1	1	0	0
+Bacteria|Actinobacteria|Actinobacteria|Bifidobacteriales|Bifidobacteriaceae|Gardnerella|Gardnerella vaginalis	0	0	0	0	0	169	0	0	2	0	0	14	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter|Achromobacter_u	0	0	0	0	0	5	1	0	8	0	0	20	0	0	0	0	0	0	9	48	0	7	88	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella oris	0	1	5	1	0	0	0	0	7	0	0	0	0	0	19	0	5	0	0	0	5	0	0	76	49	0	0	0	17	0	3	0	0	0	0	0	1	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Micrococcaceae_u|Micrococcaceae_u_u	0	2	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	70	4	0	1	52	0	0	2	6	0	0	0	0	0	1	7	4	1	7	23
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella sp. ICM33	0	0	0	148	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	2	0	0	0	1	7	0	0	0	2
+Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio cholerae	0	0	0	0	0	5	0	2	0	0	0	1	0	9	0	0	0	3	50	34	6	6	63	0	5	0	0	0	0	0	0	0	0	0	0	0	1	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Aerococcaceae|Globicatella|Globicatella sanguinis	0	0	0	0	55	118	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium_u	0	1	0	0	0	3	0	0	0	0	0	0	0	2	0	0	0	6	55	49	3	3	58	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseriaceae_u|Neisseriaceae_u_u	0	0	0	9	4	0	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	0	0	11	0	0	27	37	0	1	1	0
+Bacteria|Firmicutes|Bacilli|Bacilli_u|Bacilli_u_u|Bacilli_u_u_u|Bacilli_u_u_u_u	0	0	1	6	7	31	0	0	1	0	1	13	0	1	2	1	1	0	1	1	0	0	16	52	0	0	1	2	1	0	3	0	5	0	0	0	2	18
+Bacteria|Spirochaetes|Spirochaetia|Spirochaetales|Spirochaetaceae|Treponema|Treponema denticola	0	3	0	0	0	0	0	0	0	0	0	0	0	0	112	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	5	0	0	0	0	1	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Megasphaera|Megasphaera micronuciformis	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	55	0	0	0	0	0	1	14	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus saprophyticus	9	18	0	0	0	0	0	0	5	0	0	0	1	3	5	7	0	0	1	6	0	0	13	1	0	28	39	14	12	0	7	0	0	0	3	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillales_n|Gemella|Gemella haemolysans	0	2	0	10	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	141	0	3	0	0	0	0	3	0	1	0	2	7	0	0
+Bacteria|Actinobacteria|Coriobacteriia|Coriobacteriales|Atopobiaceae|Atopobium|Atopobium_u	0	0	0	0	0	13	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	12	0	0	0	0	132	0	0	0	1	0	0	3	2	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_n|Aquabacterium|Aquabacterium_u	0	1	3	1	0	0	0	0	0	0	0	0	0	0	2	10	19	9	12	25	7	10	20	0	0	1	0	1	3	5	10	5	5	0	5	2	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Alloprevotella|Alloprevotella tannerae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	2	0	75	0	7	0	0	1	0	0	0	1	0	2	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum chlorophenolicum	0	0	0	0	0	0	136	0	2	0	0	0	5	4	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Empedobacter|Empedobacter falsenii	0	0	6	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	1	0	1	11	55	63	1	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Aggregatibacter|Aggregatibacter_u	0	0	0	16	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	14	11	0	0	82	0	0	0	0	13	0	7	0	0	9	0	0	0	0
+Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Waddliaceae|Waddlia|Waddlia chondrophila	0	0	0	0	0	1	0	1	0	1	0	0	0	5	1	0	0	5	8	20	13	4	92	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium tuberculosis	0	0	1	0	0	1	1	0	0	5	3	0	0	5	0	0	0	5	34	21	5	4	60	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella pallens	0	0	0	5	0	0	6	0	0	0	0	0	0	0	1	0	1	0	0	2	0	0	0	122	2	0	0	0	0	0	0	3	0	0	0	0	0	0
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Leptotrichiaceae|Leptotrichia|Leptotrichia_u	0	0	0	2	0	0	1	0	0	9	0	0	2	0	1	0	0	0	0	0	0	0	2	37	0	0	0	0	0	0	0	23	3	25	0	1	32	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Ensifer|Ensifer_u	0	0	0	0	0	0	0	0	0	0	1	12	4	119	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Alteromonadales|Pseudoalteromonadaceae|Pseudoalteromonas|Pseudoalteromonas luteoviolacea	0	0	0	0	0	3	3	1	0	1	1	0	0	3	0	0	0	8	40	30	13	6	21	0	0	5	0	0	0	0	0	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Phyllobacteriaceae_u|Phyllobacteriaceae_u_u	0	3	1	0	12	5	0	0	1	0	1	31	0	3	1	7	5	0	11	2	1	15	5	0	1	0	0	0	5	2	4	1	1	0	14	3	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella melaninogenica	0	0	0	22	0	2	7	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	21	3	2	1	0	4
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonadaceae_u|Pseudomonadaceae_u_u	0	0	0	0	4	29	13	0	10	0	14	4	2	0	0	0	0	0	10	3	0	0	29	0	0	0	0	0	0	0	0	0	0	2	0	0	11	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Alcaligenaceae_u|Alcaligenaceae_u_u	0	0	0	0	0	3	1	0	2	0	0	0	0	1	0	0	0	0	10	30	0	3	65	0	0	0	0	0	0	0	0	0	0	0	0	0	11	4
+Bacteria|Bacteroidetes|Bacteroidetes_u|Bacteroidetes_u_u|Bacteroidetes_u_u_u|Bacteroidetes_u_u_u_u|Bacteroidetes_u_u_u_u_u	3	0	0	1	0	1	0	0	0	0	0	1	0	0	45	0	1	0	0	0	2	0	3	42	0	0	1	1	0	3	1	3	1	6	0	2	0	6
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Escherichia|Escherichia coli	0	1	0	0	0	6	2	1	60	6	1	0	0	9	0	0	0	5	10	3	4	2	4	0	0	2	0	0	0	0	2	0	0	0	0	7	2	0
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga sputigena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	10	10	16	0	85	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pasteurellales|Pasteurellaceae|Aggregatibacter|Aggregatibacter segnis	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	8	0	0	55	0	0	0	0	6	0	0	0	1	14	0	19	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Phyllobacterium|Phyllobacterium sp. UNC302MFCol5.2	0	0	0	0	4	26	1	1	1	0	7	1	1	4	0	0	0	0	16	0	0	0	7	0	0	0	0	0	0	0	0	0	0	1	46	0	0	3
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus pneumoniae	47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	55	0	0	5	1
+Bacteria|Bacteroidetes|Sphingobacteriia|Sphingobacteriales|Sphingobacteriaceae|Pedobacter|Pedobacter panaciterrae	0	0	0	0	0	104	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotellaceae_u|Prevotellaceae_u_u	0	0	0	0	0	0	2	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	15	21	0	0	0	0	1	0	0	28	26	0	0	3	0
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Chitinophagaceae_u|Chitinophagaceae_u_u	0	6	3	0	0	0	0	0	0	0	0	0	0	0	1	11	11	9	6	6	8	8	11	0	0	3	1	1	5	4	4	3	2	1	0	2	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella sp. C561	0	0	0	9	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	13	0	0	0	80	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|Pelomonas_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	13	6	7	11	9	1	11	9	1	1	0	0	0	13	3	1	1	2	0	0	6	1	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhodobacterales|Rhodobacteraceae|Paracoccus|Paracoccus_u	0	0	0	0	0	0	3	0	0	0	0	86	0	0	0	0	0	0	1	0	0	0	13	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella parvula	0	0	8	6	0	0	0	0	0	0	0	0	2	0	55	0	0	0	0	0	0	0	0	6	1	0	0	0	0	5	0	3	5	0	8	1	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Rhizobiaceae|Rhizobium|Rhizobium_u	0	0	0	0	5	0	0	0	8	0	11	23	0	3	0	0	0	0	3	0	0	1	45	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Peptoniphilus|Peptoniphilus rhinitidis	0	0	0	0	0	23	36	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella sp. oral taxon 158	0	0	0	0	0	0	0	1	11	2	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	4	31	0	0	4	0	1	4	0	0
+Bacteria|Bacteroidetes|Sphingobacteriia|Sphingobacteriales|Sphingobacteriaceae|Sphingobacterium|Sphingobacterium spiritivorum	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	46	33	6	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. KG01	0	0	0	0	1	0	62	0	4	0	11	0	1	0	0	0	0	0	0	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas veronii	0	0	0	0	3	0	41	0	0	0	0	25	10	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	1
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium periodonticum	0	0	0	4	0	0	1	0	0	4	0	0	0	0	0	0	18	0	0	0	0	0	0	29	0	0	0	0	0	0	2	6	6	0	0	0	11	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter baumannii	0	0	0	1	13	53	0	0	0	0	0	0	0	0	0	1	0	1	3	2	0	0	3	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas endodontalis	0	7	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	58	6	0	0	0	0	0	1	0	0	0	0	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella nigrescens	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	26	0	0	0	8	36	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas paucimobilis	0	0	0	0	0	0	0	0	0	1	0	0	0	4	0	0	0	2	3	12	4	4	39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella tobetsuensis	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	0	0	0	2	0	0	21	0	4
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Leptotrichiaceae|Leptotrichia|Leptotrichia wadei	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	43	0	0	5	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. CF161	0	0	0	0	2	0	4	0	5	0	0	2	0	43	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	7
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. CBZ-4	0	0	0	0	1	5	5	1	1	5	7	1	6	3	0	0	0	0	0	8	0	1	9	0	0	0	0	0	0	0	0	0	0	1	0	0	0	11
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Moraxellaceae_u|Moraxellaceae_u_u	0	0	0	0	1	46	0	0	0	0	0	1	2	5	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus pasteuri	0	0	0	0	6	3	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	13	0	1	0	0	0	0	5	26	0	0	0	6	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. PAMC 26793	0	0	0	0	0	2	0	1	0	0	4	4	22	1	0	0	0	0	0	8	0	1	5	0	0	0	0	0	0	0	0	0	0	1	1	1	0	10
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus mutans	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	3	0	3	22	3	2	1	0	0	0	24	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Brucellaceae|Ochrobactrum|Ochrobactrum anthropi	0	0	0	0	0	40	0	6	2	0	0	0	0	3	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. BTAi1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	4	3	8	0	0	2	6	5	0	0	0	0	0	0	1	4	2	4	1	1	11	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. S1E40	0	0	0	0	0	6	1	13	0	1	12	12	0	1	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	3	1	0	1	1
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides_u	0	33	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	4	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|Lachnospiraceae_u|Lachnospiraceae_u_u	0	0	0	0	0	0	1	0	19	3	5	0	0	0	0	0	0	0	0	2	0	0	0	9	0	0	0	1	1	0	1	1	12	1	0	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Bacteroidaceae|Bacteroides|Bacteroides fragilis	0	0	1	0	2	5	0	0	1	2	0	1	1	4	0	0	0	9	2	8	10	1	0	0	1	2	1	0	1	0	0	0	0	0	0	0	1	1
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Microbacteriaceae|Microbacterium|Microbacterium laevaniformans	0	0	0	0	0	1	0	0	0	0	0	0	0	6	0	0	0	3	10	20	3	0	9	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacterium|Propionibacterium acnes	0	0	0	0	40	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	7
+Bacteria|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Finegoldia|Finegoldia magna	0	14	0	0	18	15	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. Root9	0	0	0	0	0	0	0	0	19	0	0	0	1	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	23
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillales_n|Gemella|Gemella_u	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	16	0	0	0	0	0	0	0	20	1	0	0	10	0	0
+Bacteria|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Parvimonas|Parvimonas_u	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	3	0	0	16	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Streptomycetales|Streptomycetaceae|Streptomyces|Streptomyces turgidiscabies	0	0	0	0	0	0	0	1	0	1	0	0	0	5	0	0	0	6	10	14	1	5	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Hydrotalea|Hydrotalea flava	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	4	5	3	4	5	1	1	7	0	1	2	1	0	1	1	1	1	2	1	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_n|Aquabacterium|Aquabacterium parvum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	5	5	5	5	5	5	6	0	0	0	0	1	0	0	1	0	1	0	0	3	0	0
+Bacteria|Firmicutes|Negativicutes|Veillonellales|Veillonellaceae|Veillonella|Veillonella dispar	0	3	0	1	0	0	0	0	2	1	0	2	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	12	0	0	3	0	3	3	0	1
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas gingivalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter concisus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	3	0	0	0	0	0	0	0	0	2	10	6	17	1	2
+Bacteria|Proteobacteria|Betaproteobacteria|Neisseriales|Neisseriaceae|Neisseria|Neisseria meningitidis	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	39	0	1	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium sp. 1100029.7	0	0	0	0	0	3	2	0	0	4	0	0	0	4	0	0	1	3	6	13	2	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Sediminibacterium|Sediminibacterium_u	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	8	3	3	3	3	1	0	3	1	1	0	1	0	2	3	1	1	0	0	1	0	0	0
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Leptotrichiaceae|Streptobacillus|Streptobacillus moniliformis	1	0	0	0	0	0	0	1	0	6	0	0	0	1	0	0	0	3	3	5	4	4	11	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Enterococcaceae|Enterococcus|Enterococcus faecium	0	0	0	0	0	0	9	0	0	0	0	0	0	3	22	0	0	2	1	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Campylobacteraceae|Campylobacter|Campylobacter showae	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	10	8	7	5	0	2	1	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Klebsiella|Klebsiella pneumoniae	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	13	14	0	0	8	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Porphyromonas|Porphyromonas sp. KLE 1280	0	0	0	0	0	21	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	1	0	0	1	0	2
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Carnobacteriaceae|Carnobacterium|Carnobacterium maltaromaticum	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	8	0	10
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga sp. CM59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	19	0	12	0	2	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Phyllobacterium|Phyllobacterium_u	0	0	0	0	1	0	0	2	1	0	5	1	1	1	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0
+Bacteria|Proteobacteria|Epsilonproteobacteria|Campylobacterales|Helicobacteraceae|Helicobacter|Helicobacter pylori	0	0	0	10	0	0	1	0	0	1	1	0	0	1	0	0	0	1	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Caulobacteraceae_u|Caulobacteraceae_u_u	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	5	2	2	4	0	2	4	0	0	0	0	0	2	2	2	1	2	1	1	2	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Mycobacteriaceae|Mycobacterium|Mycobacterium sp. 1554424.7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	8	20	0	1	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas trivialis	0	0	0	0	0	16	0	0	7	0	0	3	0	0	0	0	0	0	0	1	0	1	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Rothia|Rothia dentocariosa	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	3	0	0	0	8	1	0	21	0	0
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium nucleatum	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	5	1	0	0	4	1	0	0	0	0	0	10	4	0	2	0	5	1	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas tolaasii	0	0	0	0	0	0	0	5	9	0	2	0	2	0	0	0	0	0	0	6	0	0	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella maculosa	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	2	0	0	0	2	0	7	0	0	0	0	0	0	5
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga sp. oral taxon 329	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	10	0	0	0	0	0	0	2	6	5	8	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Afipia|Afipia_u	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	1	2	2	6	3	2	3	0	1	0	0	0	0	1	2	0	3	0	0	1	0	0	0
+Bacteria|Bacteroidetes|Flavobacteriia|Flavobacteriales|Flavobacteriaceae|Capnocytophaga|Capnocytophaga sp. oral taxon 326	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	11	4	3	0	4	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Moraxellaceae|Acinetobacter|Acinetobacter sp. MII	0	0	0	0	0	20	1	0	0	0	0	0	0	1	0	0	0	0	0	3	0	1	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium tropiciagri	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	4	1	1	4	0	5	1	0	1	2	1	1	0	0	2	1	0	0	0	2	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Rhodopseudomonas|Rhodopseudomonas palustris	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	6	2	0	4	3	1	2	4	0	0	0	0	0	1	0	0	0	0	2	1	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonadaceae_u|Sphingomonadaceae_u_u	0	1	1	0	0	0	0	0	5	0	0	1	0	0	0	1	0	0	12	0	3	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. CCH5-F6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	4	1	4	3	0	0	0	0	1	1	0	0	0	3	0	0	1	1	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Delftia|Delftia lacustris	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Bacteria|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Peptoniphilus|Peptoniphilus_u	0	0	0	0	0	7	5	0	0	0	0	0	0	2	0	5	0	0	0	0	0	0	0	0	0	1	0	8	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_n|Burkholderiales_n_u|Burkholderiales_n_u_u	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	3	4	0	2	3	4	2	0	0	0	0	0	1	2	1	0	1	1	0	0	1	0	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Carnobacteriaceae|Granulicatella|Granulicatella_u	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	5	0	0	2	0	0	4
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Fusobacteriales_u|Fusobacteriales_u_u|Fusobacteriales_u_u_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	12	0	0	0	0	0	0	2	1	2	0	0	0	8	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium elkanii	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	8	0	3	2	2	0	2	0	0	0	1	0	0	0	1	0	1	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Listeriaceae|Listeria|Listeria monocytogenes	0	0	0	0	0	0	0	0	0	3	0	0	0	1	1	0	0	0	0	1	0	1	9	0	0	1	1	0	1	0	0	0	1	0	0	0	2	4
+Bacteria|Fusobacteria|Fusobacteriia|Fusobacteriales|Fusobacteriaceae|Fusobacterium|Fusobacterium hwasookii	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	3	0	0	0	2	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	1	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|Lachnoanaerobaculum|Lachnoanaerobaculum_u	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	4	1	7	2	0	0
+Bacteria|Chlamydiae|Chlamydiia|Chlamydiales|Chlamydiaceae|Chlamydia|Chlamydia psittaci	0	0	0	0	0	0	0	0	0	1	1	0	2	3	0	0	0	1	10	2	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio vulnificus	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	2	6	5	0	1	1	2	0	2	0	0	0	0	0	0	0	0	0	2	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Ralstonia|Ralstonia_u	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	1	0	3	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	1	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Phyllobacterium|Phyllobacterium sp. YR531	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	13	0	0	0	7	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiaceae|Burkholderia|Burkholderia_u	0	0	0	0	10	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	8	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Lachnospiraceae|Oribacterium|Oribacterium sinus	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	4	0	0	0	0	7	0	0	0	4	0	0	4	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriales_n|Lawsonella|Lawsonella clevelandensis	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	1	0	0	0	0	0	0	6	0	0	5	0	0	0	0	0	0	0	0	0	3	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium viridifuturi	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	2	1	1	0	2	1	0	0	0	0	1	0	5	1	0	0	0	0	1	0	0
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Sediminibacterium|Sediminibacterium salmoneum	2	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	1	2	0	3	1	3	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Porphyromonadaceae|Sanguibacteroides|Sanguibacteroides justesenii	0	0	5	0	0	1	0	0	0	0	0	0	0	4	0	0	0	1	2	1	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus sp. 263_SSPC	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	1	0	0	1	0	0	1	0	6
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Caulobacter|Caulobacter_u	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	1	2	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1	0	0	0
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Sediminibacterium|Sediminibacterium sp. C3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	3	0	1	2	0	3	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Propionibacteriales|Propionibacteriaceae|Propionibacteriaceae_u|Propionibacteriaceae_u_u	0	0	0	0	10	3	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Thiotrichales|Piscirickettsiaceae|Piscirickettsia|Piscirickettsia salmonis	0	0	0	0	0	0	0	1	0	4	0	0	0	1	0	0	0	0	0	2	1	2	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Klebsiella|[Enterobacter] aerogenes	0	0	0	0	0	0	0	0	0	1	1	0	0	4	0	0	0	0	0	0	2	2	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Actinomycetales|Actinomycetaceae|Actinomyces|Actinomyces_u	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	6	0	1	0	2	0	0	0	0	0	0	0	0	2	1	0	1	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Rothia|Rothia_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	2	3	0	8	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Pectobacterium|Pectobacterium carotovorum	1	1	0	0	0	0	1	1	0	0	1	0	0	0	2	0	0	2	2	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Massilia|Massilia sp. JS1662	0	0	0	0	0	0	1	0	0	2	0	0	0	2	0	0	0	2	2	3	1	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|Pelomonas sp. Root1444	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	3	1	0	3	0	0	0	0	0	2	1	1	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Micrococcaceae|Paeniglutamicibacter|Paeniglutamicibacter antarcticus	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	3	0	0	2	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus infantis	0	0	0	2	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	1	0	1	0	0	0	0	0	1
+Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio parahaemolyticus	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	7	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Burkholderiales_n|Ideonella|Ideonella sakaiensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	3	0	1	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella sp. oral taxon 306	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	1	1	2	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Pelagibacterales|Pelagibacteraceae|Candidatus Pelagibacter|Candidatus Pelagibacter ubique	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	8	2	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Oxalobacteraceae|Herbaspirillum|Herbaspirillum hiltneri	0	0	0	0	6	0	0	0	4	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Lactobacillaceae|Lactobacillus|Lactobacillus rossiae	0	0	0	0	0	0	0	0	0	2	0	6	0	1	0	0	0	2	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|Pelomonas sp. Root1237	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	4	2	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Rhodopseudomonas|Rhodopseudomonas_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	3	1	1	1	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Xanthobacteraceae|Azorhizobium|Azorhizobium doebereinerae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	1	1	1	1	1	0	1	0	0	0	0	1	0	1	0	0	1	1	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. RIT357	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Achromobacter|Achromobacter xylosoxidans	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	2	2	0	1	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium embrapense	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	1	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+Bacteria|Bacteroidetes|Bacteroidia|Bacteroidales|Prevotellaceae|Prevotella|Prevotella scopos	0	0	0	7	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Alcaligenaceae|Bordetella|Bordetella bronchiseptica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	5
+Bacteria|Proteobacteria|Gammaproteobacteria|Vibrionales|Vibrionaceae|Vibrio|Vibrio toranzoniae	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Bacillales_n|Acidibacillus|Acidibacillus ferrooxidans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	5	0	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Phenylobacterium|Phenylobacterium zucineum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	1	0	1	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas sp. SRS2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	2	0	0	0	0	0	0	1	2	1	0	1	1	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. URHA0002	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+Bacteria|Firmicutes|Tissierellia|Tissierellales|Peptoniphilaceae|Parvimonas|Parvimonas micra	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	0	0	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Staphylococcaceae|Staphylococcus|Staphylococcus sciuri	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Lactobacillales|Streptococcaceae|Streptococcus|Streptococcus gordonii	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	1	0	2	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Acidovorax|Acidovorax citrulli	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Caulobacteraceae_n|Caulobacteraceae bacterium PMMR1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	1	0	2	1	0	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas_u	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	1	0	0	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas sp. Ant H11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	1	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Betaproteobacteria|Burkholderiales|Comamonadaceae|Pelomonas|Pelomonas sp. Root1217	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	5	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Bacilli|Bacillales|Planococcaceae|Solibacillus|Solibacillus silvestris	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	2	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Phyllobacteriaceae|Mesorhizobium|Mesorhizobium sp. F7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	1	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Shigella|Shigella flexneri	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0	0	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Afipia|Afipia sp. Root123D2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. OHSU_III	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. BR 10303	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Nocardiaceae|Nocardia|Nocardia brevicatena	0	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingobium|Sphingobium sp. MI1205	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas sp. LAMO17WK12:I2	0	0	0	0	0	0	1	0	0	3	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Corynebacteriales|Corynebacteriales_u|Corynebacteriales_u_u|Corynebacteriales_u_u_u	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. WSM3983	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Phenylobacterium|Phenylobacterium_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0
+Bacteria|Actinobacteria|Actinobacteria|Micrococcales|Bogoriellaceae|Georgenia|Georgenia sp. SUBG003	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bacteria|Actinobacteria|Actinobacteria|Streptomycetales|Streptomycetaceae|Streptomyces|Streptomyces sp. AcH 505	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Firmicutes|Clostridia|Clostridiales|Peptostreptococcaceae|Paeniclostridium|Paeniclostridium sordellii	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Tardiphaga|Tardiphaga sp. Vaf07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas koreensis	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Methylocystaceae|Methylocystis|Methylocystis sp. ATCC 49242	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Sphingomonadales|Sphingomonadaceae|Sphingomonas|Sphingomonas endophytica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Pseudomonadales|Pseudomonadaceae|Pseudomonas|Pseudomonas psychrotolerans	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Bacteria|Bacteroidetes|Chitinophagia|Chitinophagales|Chitinophagaceae|Sediminibacterium|Sediminibacterium sp. OR43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. th.b2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Caulobacterales|Caulobacteraceae|Caulobacter|Caulobacter vibrioides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. BR 10245	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0
+Bacteria|Proteobacteria|Gammaproteobacteria|Enterobacteriales|Enterobacteriaceae|Enterobacter|Enterobacter cloacae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+Bacteria|Proteobacteria|Alphaproteobacteria|Rhizobiales|Bradyrhizobiaceae|Bradyrhizobium|Bradyrhizobium sp. URHD0069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+Archaea|Crenarchaeota|Thermoprotei|Sulfolobales|Sulfolobaceae|Sulfolobus|Sulfolobus acidocaldarius	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	1	1	8	3	7	116	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Archaea|Euryarchaeota|Thermoplasmata|Thermoplasmatales|Ferroplasmaceae|Acidiplasma|Acidiplasma cupricumulans	0	1	0	0	0	3	0	0	0	3	0	1	0	5	0	0	0	1	3	4	3	1	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Enterobacterales prophage|Enterobacteriaceae prophage|Klebsiella prophage|Klebsiella pneumoniae	0	0	7	0	0	0	0	0	2	1	0	9283	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prophage|Firmicutes prophage|Bacilli prophage|Lactobacillales prophage|Streptococcaceae prophage|Streptococcus prophage|Streptococcus prophage_u	2350	1	0	7	5	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	29	0	0	0	0	0	16	121	29	1	1	0	0	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Enterobacterales prophage|Enterobacteriaceae prophage|Escherichia prophage|Escherichia coli	0	0	0	0	0	0	0	0	1451	0	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	3
+Prophage|Firmicutes prophage|Bacilli prophage|Lactobacillales prophage|Streptococcaceae prophage|Streptococcus prophage|Streptococcus pneumoniae	72	1	0	37	11	6	0	0	0	5	0	1	1	0	4	1	1	0	0	0	0	0	0	340	0	0	0	1	0	144	16	3	15	43	10	2	8	2
+Prophage|Firmicutes prophage|Bacilli prophage|Lactobacillales prophage|Streptococcaceae prophage|Streptococcus prophage|Streptococcus mitis	601	1	0	3	3	10	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	3	36	3	4	6	0	1	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pasteurellales prophage|Pasteurellaceae prophage|Haemophilus prophage|Haemophilus prophage_u	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	1	0	241	0	0	0	0	9	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pasteurellales prophage|Pasteurellaceae prophage|Haemophilus prophage|Haemophilus influenzae	0	0	0	1	0	0	8	0	25	1	0	0	0	0	0	1	0	0	0	49	0	0	1	3	0	0	0	0	0	1	39	16	0	0	1	13	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas syringae group genomosp. 3	0	0	0	0	4	61	3	0	2	0	1	2	34	0	0	0	0	0	1	1	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5
+Prophage|Firmicutes prophage|Bacilli prophage|Bacillales prophage|Staphylococcaceae prophage|Staphylococcus prophage|Staphylococcus aureus	0	0	7	0	16	38	4	0	0	0	0	6	3	2	2	0	0	1	1	0	0	9	0	0	1	0	1	2	2	0	0	0	0	0	2	0	1	3
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas aeruginosa	0	4	0	0	0	8	8	0	0	0	2	14	39	0	1	0	0	1	5	1	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas prophage_u	0	0	0	0	0	1	9	3	1	0	1	14	6	1	0	0	0	1	0	0	0	0	6	0	0	0	4	0	0	0	0	0	0	0	0	0	4	32
+Prophage|Firmicutes prophage|Bacilli prophage|Lactobacillales prophage|Streptococcaceae prophage|Streptococcus prophage|Streptococcus infantis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	0	3	4	5	0	0	1	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas fluorescens	0	0	0	0	0	6	11	13	3	0	2	8	2	0	0	0	0	0	14	3	0	0	5	0	0	0	0	0	0	0	0	0	0	1	0	0	1	4
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas sp. CBZ-4	0	0	0	0	3	22	0	0	2	0	2	2	0	2	0	0	0	1	0	13	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Prophage|Firmicutes prophage|Bacilli prophage|Bacillales prophage|Staphylococcaceae prophage|Staphylococcus prophage|Staphylococcus epidermidis	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	4	0	4	0	0	0	0	0	0	0	0	0	11
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas putida	0	0	0	0	0	0	2	0	1	0	4	0	2	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prophage|Proteobacteria prophage|Gammaproteobacteria prophage|Pseudomonadales prophage|Pseudomonadaceae prophage|Pseudomonas prophage|Pseudomonas monteilii	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

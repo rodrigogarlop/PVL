@@ -1,0 +1,24 @@
+#Taxonomy
+#OTU ID	C02	C03	L01	L02	L03	L04	L06	L08	L09	L10	S01	S02	S05	S06	S07	S09	S10	S12	S13	S15	S16	V01	V02	V03	V04	V05	V06	V07	V09	V10	taxonomy
+0	0	0	1	1	8021	0	0	0	0	0	0	1	0	0	0	0	0	0	1697	1393	83	2	0	0	1	1	0	1	1	0	1__Eukaryota;2__Ascomycota;3__Saccharomycetes;4__Saccharomycetales;5__Dipodascaceae;6__Yarrowia;7__Yarrowia lipolytica
+1	10	1	0	0	16	0	2	4	0	3	47	1	0	7	75	2	1	0	24	47	4102	4	225	5	266	0	4	0	0	0	1__Eukaryota;2__Ascomycota;3__Saccharomycetes;4__Saccharomycetales;5__Debaryomycetaceae;6__Candida;7__Candida orthopsilosis
+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	944	33	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Pyrenophora;7__Pyrenophora teres
+3	5	2	44	1	86	48	0	15	8	0	12	73	0	2	3	11	48	0	17	0	4	0	1	0	0	0	2	0	0	539	1__Eukaryota;2__Basidiomycota;3__Malasseziomycetes;4__Malasseziales;5__Malasseziaceae;6__Malassezia;7__Malassezia globosa
+4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	257	17	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Pyrenophora;7__Pyrenophora tritici-repentis
+5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	261	6	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Setosphaeria;7__Setosphaeria turcica
+6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	161	52	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Pleosporaceae_u;7__Pleosporaceae_u_u
+7	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	191	3	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Pyrenophora;7__Pyrenophora_u
+8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	125	53	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporales_u;6__Pleosporales_u_u;7__Pleosporales_u_u_u
+9	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	152	0	0	1__Eukaryota;2__Basidiomycota;3__Agaricomycetes;4__Russulales;5__Stereaceae;6__Stereum;7__Stereum hirsutum
+10	0	0	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Capnodiales;5__Mycosphaerellaceae;6__Zymoseptoria;7__Zymoseptoria tritici
+11	1	0	42	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	16	0	0	0	0	1	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Ascomycota_u;4__Ascomycota_u_u;5__Ascomycota_u_u_u;6__Ascomycota_u_u_u_u;7__Ascomycota_u_u_u_u_u
+12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	41	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Pleosporaceae;6__Bipolaris;7__Bipolaris_u
+13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	4	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Dothideomycetes;4__Pleosporales;5__Phaeosphaeriaceae;6__Parastagonospora;7__Parastagonospora nodorum
+14	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Eurotiomycetes;4__Eurotiales;5__Aspergillaceae;6__Aspergillus;7__Aspergillus terreus
+15	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Sordariomycetes;4__Ophiostomatales;5__Ophiostomataceae;6__Sporothrix;7__Sporothrix schenckii
+16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Eurotiomycetes;4__Chaetothyriales;5__Herpotrichiellaceae;6__Coniosporium;7__Coniosporium apollinis
+17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	6	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Saccharomycetes;4__Saccharomycetales;5__Debaryomycetaceae;6__Debaryomycetaceae_u;7__Debaryomycetaceae_u_u
+18	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	1	1__Eukaryota;2__Basidiomycota;3__Basidiomycota_u;4__Basidiomycota_u_u;5__Basidiomycota_u_u_u;6__Basidiomycota_u_u_u_u;7__Basidiomycota_u_u_u_u_u
+19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	1	0	2	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Saccharomycetes;4__Saccharomycetales;5__Debaryomycetaceae;6__Candida;7__Candida_u
+20	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1__Eukaryota;2__Ascomycota;3__Sordariomycetes;4__Magnaporthales;5__Magnaporthaceae;6__Magnaporthe;7__Magnaporthe oryzae
+21	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1__Eukaryota;2__Ascomycota;3__Eurotiomycetes;4__Eurotiales;5__Aspergillaceae;6__Aspergillus;7__Aspergillus flavus

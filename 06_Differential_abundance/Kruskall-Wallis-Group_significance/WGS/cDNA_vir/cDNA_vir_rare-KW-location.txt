@@ -1,0 +1,11 @@
+OTU	Test-Statistic	P	FDR_P	Bonferroni_P	Tongue_mean	Other_mean	Lip_mean	Gingiva_mean	taxonomy
+74	5.18984383592	0.158412099047	0.595590311964	1.0	21.0	12.0	0.0	5.07142857143	1__Viruses; 2__III:dsRNA; 3__III:dsRNA_n; 4__Partitiviridae; 5__Partitiviridae_n; 6__Partitiviridae_n_n; 7__Pittosporum cryptic virus-1
+154	5.03903253609	0.168961201067	0.595590311964	1.0	0.0	3.0	0.0	2.5	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Bunyaviridae; 5__Bunyaviridae_n; 6__Orthobunyavirus; 7__Bunyamwera virus
+328	4.07770195906	0.253195040011	0.595590311964	1.0	0.0	0.0	1.0	0.428571428571	1__Viruses; 2__I:dsDNA; 3__I:dsDNA_u; 4__I:dsDNA_u_u; 5__I:dsDNA_u_u_u; 6__I:dsDNA_u_u_u_u; 7__I:dsDNA_u_u_u_u_u
+47	3.68965642875	0.296984453021	0.595590311964	1.0	13.5	2.33333333333	0.0	13.6428571429	1__Viruses; 2__V:(-)ssRNA; 3__V:(-)ssRNA_n; 4__Arenaviridae; 5__Arenaviridae_n; 6__Mammarenavirus; 7__Lassa mammarenavirus
+171	3.68297101449	0.297795155982	0.595590311964	1.0	0.5	1.66666666667	11.0	1.42857142857	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus H
+278	2.59997439836	0.457494035194	0.762490058656	1.0	0.5	0.333333333333	2.0	0.642857142857	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus K
+60	2.02200051164	0.567852996006	0.797495275677	1.0	0.5	7.33333333333	6.0	7.35714285714	1__Viruses; 2__I:dsDNA; 3__Herpesvirales; 4__Herpesviridae; 5__Betaherpesvirinae; 6__Cytomegalovirus; 7__Cercopithecine herpesvirus 5
+61	1.69522359933	0.637996220541	0.797495275677	1.0	3.5	12.0	20.0	8.28571428571	1__Viruses; 2__undetermined Viruses; 3__undetermined Viruses; 4__undetermined Viruses; 5__undetermined Viruses; 6__undetermined Viruses; 7__undetermined Viruses
+338	0.904761904762	0.824278502322	0.864898756731	1.0	0.0	0.0	0.0	0.142857142857	1__Viruses; 2__VI-VII:RT; 3__VI-VII:RT_n; 4__Retroviridae; 5__Retroviridae_n; 6__Retroviridae_n_n; 7__Human endogenous retrovirus
+342	0.735183970259	0.864898756731	0.864898756731	1.0	0.5	1.33333333333	0.0	0.5	1__Viruses; 2__IV:(+)ssRNA; 3__Nidovirales; 4__Coronaviridae; 5__Coronavirinae; 6__Gammacoronavirus; 7__Avian coronavirus
